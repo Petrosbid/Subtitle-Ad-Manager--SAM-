@@ -4,6 +4,8 @@
 
 Welcome to the **Subtitle Ad Manager**! Are you tired of distracting sponsor messages, Telegram channel links, and annoying promotional texts popping up in the middle of your favorite movies? This powerful, AI-driven tool is designed to automatically detect and remove (or replace) advertisement blocks from your subtitle files (`.srt`, `.vtt`, `.ass`).
 
+
+
 ---
 
 ## 🌟 Key Features
@@ -13,6 +15,11 @@ Welcome to the **Subtitle Ad Manager**! Are you tired of distracting sponsor mes
 * **📂 Batch Processing:** Drag & Drop multiple files into the sleek PySide6 dark-themed GUI and clean them all simultaneously.
 * **✏️ Custom Replacements:** Remove ad blocks entirely, replace them with a static string, or randomize replacements from a custom list.
 * **📊 End-to-End ML Pipeline:** Includes scripts to extract, clean, normalize, and train your own custom ML models (`Train_model.py`, `norm_text.py`).
+
+## 📸 Screenshots
+<img width="1377" height="977" alt="img" src="https://github.com/user-attachments/assets/0d10c8f1-3e4a-4896-b486-c17634865d42" />
+<img width="1377" height="977" alt="img_1" src="https://github.com/user-attachments/assets/333da4bf-ae18-4852-a3ab-a6113ad22b25" />
+<img width="1377" height="977" alt="img_2" src="https://github.com/user-attachments/assets/3947ba84-636a-4820-a26d-dd2d3ee04608" />
 
 ## 🚀 Quick Start
 
