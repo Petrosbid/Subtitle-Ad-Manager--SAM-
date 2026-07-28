@@ -30,7 +30,7 @@ def normalize_text(text: str) -> str:
     return text
 
 # ------------------- بارگذاری و پاکسازی -------------------
-input_file = Path('output.txt')   # فایل تبلیغات جمع‌آوری‌شده
+input_file = Path('output_neg.txt')   # فایل تبلیغات جمع‌آوری‌شده
 output_file = Path('ads_negative_clean.csv')
 
 # خواندن خطوط

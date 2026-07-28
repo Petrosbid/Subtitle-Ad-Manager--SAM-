@@ -1,7 +1,7 @@
 import pandas as pd
 
 INPUT_POS  = "ads_positive_clean.csv"   # ممکن است تغییر نام داده باشید
-INPUT_NEG  = "ads_negative_clean_filtered.csv"
+INPUT_NEG  = "ads_negative_clean.csv"
 OUTPUT_POS = "ads_positive_clean_final.csv"
 OUTPUT_NEG = "ads_negative_clean_final.csv"
 

@@ -36,6 +36,6 @@ def merge_txt_files(directory_path, output_file_path):
 if __name__ == "__main__":
     # مسیر دایرکتوری حاوی فایل‌های txt را وارد کنید
     مسیر_ورودی = os.path.dirname(os.path.abspath(__file__))  # این را به مسیر دلخواه خود تغییر دهید
-    مسیر_خروجی = "./merged_all.txt"  # نام فایل خروجی
+    مسیر_خروجی = "./merged_all_neg.txt"  # نام فایل خروجی
 
     merge_txt_files(مسیر_ورودی, مسیر_خروجی)

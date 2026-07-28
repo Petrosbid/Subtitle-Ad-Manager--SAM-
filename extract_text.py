@@ -63,8 +63,8 @@ def extract_text_blocks(lines):
 
 def main():
     # Set default input and output filenames
-    input_file = 'ad_list.txt'
-    output_file = 'output.txt'
+    input_file = 'merged_all_pos.txt'
+    output_file = 'output_pos.txt'
 
     # Allow user to specify input and output via command line arguments
     if len(sys.argv) > 1:

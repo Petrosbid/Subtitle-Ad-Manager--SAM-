@@ -170,7 +170,8 @@ class AdManagerWindow(QMainWindow):
         action_row.addWidget(find_btn)
         action_row.addWidget(QPushButton("☑ Select All", clicked=self.select_all))
         action_row.addWidget(QPushButton("☐ Deselect All", clicked=self.deselect_all))
-        action_row.addWidget(QPushButton("↔ Invert", clicked=self.invert_selection))
+        action_row.addWidget(QPushButton("☑ Toggle Highlighted", clicked=self.toggle_highlighted_selection))
+        action_row.addWidget(QPushButton("↔ Invert All", clicked=self.invert_selection))
         action_row.addStretch()
         main_layout.addLayout(action_row)
 
@@ -297,7 +298,6 @@ class AdManagerWindow(QMainWindow):
             text_item = QTableWidgetItem(blk.text)
             text_item.setTextAlignment(Qt.AlignLeft | Qt.AlignTop | Qt.TextWordWrap)
             self.table.setItem(row, 4, text_item)
-            self.table.setItem(row, 1, QTableWidgetItem(Path(fpath).name))
             self.candidate_map[row] = (fpath, idx)
 
         self.table.resizeRowsToContents()
@@ -369,6 +369,32 @@ class AdManagerWindow(QMainWindow):
 
     def deselect_all(self):
         self._set_all_checked(Qt.Unchecked)
+
+    def toggle_highlighted_selection(self):
+        """تغییر وضعیت چک‌باکس سطرهایی که کاربر با ماوس روی آن‌ها هایلایت کرده است."""
+        selected_ranges = self.table.selectedRanges()
+        if not selected_ranges:
+            return
+
+        rows_to_toggle = set()
+        for r in selected_ranges:
+            for row in range(r.topRow(), r.bottomRow() + 1):
+                rows_to_toggle.add(row)
+
+        self.table.itemChanged.disconnect(self.on_item_changed)
+        for row in rows_to_toggle:
+            item = self.table.item(row, 0)
+            if item:
+                current = item.checkState()
+                new_state = Qt.Unchecked if current == Qt.Checked else Qt.Checked
+                item.setCheckState(new_state)
+        self.table.itemChanged.connect(self.on_item_changed)
+
+        for row in rows_to_toggle:
+            item = self.table.item(row, 0)
+            self.update_row_background(row, item and item.checkState() == Qt.Checked)
+
+        self.update_selected_count()
 
     def invert_selection(self):
         self.table.itemChanged.disconnect(self.on_item_changed)
