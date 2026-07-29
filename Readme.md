@@ -17,9 +17,10 @@ Welcome to the **Subtitle Ad Manager**! Are you tired of distracting sponsor mes
 * **📊 End-to-End ML Pipeline:** Includes scripts to extract, clean, normalize, and train your own custom ML models (`Train_model.py`, `norm_text.py`).
 
 ## 📸 Screenshots
-<img width="1377" height="977" alt="img" src="https://github.com/user-attachments/assets/0d10c8f1-3e4a-4896-b486-c17634865d42" />
-<img width="1377" height="977" alt="img_1" src="https://github.com/user-attachments/assets/333da4bf-ae18-4852-a3ab-a6113ad22b25" />
-<img width="1377" height="977" alt="img_2" src="https://github.com/user-attachments/assets/3947ba84-636a-4820-a26d-dd2d3ee04608" />
+<img width="1917" height="1115" alt="Screenshot 2026-07-29 134147" src="https://github.com/user-attachments/assets/2ba270f0-4daa-4528-ab67-01768803ec6a" />
+<img width="1916" height="1137" alt="Screenshot 2026-07-29 134209" src="https://github.com/user-attachments/assets/7260ee5a-1023-4c9e-818d-08b7dae31060" />
+<img width="1917" height="1120" alt="Screenshot 2026-07-29 134132" src="https://github.com/user-attachments/assets/a7aeeaef-e038-4330-ba69-bbf82d8fee2e" />
+
 
 ## 🚀 Quick Start
 
@@ -28,7 +29,7 @@ Welcome to the **Subtitle Ad Manager**! Are you tired of distracting sponsor mes
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/subtitle-ad-manager.git
+git clone https://github.com/Petrosbid/subtitle-ad-manager.git
 cd subtitle-ad-manager
 pip install -r requirements.txt
 
@@ -95,7 +96,7 @@ This will generate the `ad_classifier.pkl` and `ad_vectorizer.pkl` files in the 
 پروژه را کلون کرده و پیش‌نیازها را نصب کنید:
 
 ```bash
-git clone https://github.com/yourusername/subtitle-ad-manager.git
+git clone https://github.com/Petrosbid/subtitle-ad-manager.git
 cd subtitle-ad-manager
 pip install -r requirements.txt
 
