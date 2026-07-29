@@ -1,31 +1,31 @@
-Best AUC (CV): 0.9934
-Best params: {'clf__C': 5.0, 'clf__penalty': 'l2', 'clf__solver': 'saga', 'tfidf__max_features': None, 'tfidf__ngram_range': (2, 5), 'tfidf__sublinear_tf': True}
+Best AUC (CV): 0.9971
+Best params: {'clf__C': 5.0, 'clf__penalty': 'l2', 'clf__solver': 'saga', 'tfidf__max_features': 10000, 'tfidf__ngram_range': (3, 4), 'tfidf__sublinear_tf': False}
 
 Test set performance (threshold=0.5):
               precision    recall  f1-score   support
 
-      non‑ad       0.98      0.99      0.99       269
-          ad       0.99      0.98      0.98       247
+      non‑ad       0.99      1.00      1.00       602
+          ad       1.00      0.94      0.97        98
 
-    accuracy                           0.98       516
-   macro avg       0.98      0.98      0.98       516
-weighted avg       0.98      0.98      0.98       516
+    accuracy                           0.99       700
+   macro avg       1.00      0.97      0.98       700
+weighted avg       0.99      0.99      0.99       700
 
 Confusion matrix:
-[[267   2]
- [  6 241]]
+[[602   0]
+ [  6  92]]
 
-ROC AUC: 0.9962
+ROC AUC: 0.9972
 
-Optimal threshold for recall >= 0.95: 0.8024
-Recall: 0.9514   Precision: 0.9958
+Optimal threshold for recall >= 0.95: 0.3759
+Recall: 0.9592   Precision: 0.9895
 
 Classification report with optimal threshold:
               precision    recall  f1-score   support
 
-      non‑ad       0.96      1.00      0.98       269
-          ad       1.00      0.95      0.97       247
+      non‑ad       0.99      1.00      1.00       602
+          ad       0.99      0.96      0.97        98
 
-    accuracy                           0.97       516
-   macro avg       0.98      0.97      0.97       516
-weighted avg       0.98      0.97      0.97       516
+    accuracy                           0.99       700
+   macro avg       0.99      0.98      0.98       700
+weighted avg       0.99      0.99      0.99       700

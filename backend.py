@@ -13,9 +13,9 @@ except ImportError:
     HAS_PYSUBS2 = False
 
 
-model = joblib.load('model/ad_classifier.pkl')
-vectorizer = joblib.load('model/ad_vectorizer.pkl')
-with open('model/threshold.txt', 'r') as f:
+model = joblib.load('ad_classifier.pkl')
+vectorizer = joblib.load('ad_vectorizer.pkl')
+with open('threshold.txt', 'r') as f:
     THRESHOLD = float(f.read())
 
 # ------------------ Patterns & Normalization ------------------

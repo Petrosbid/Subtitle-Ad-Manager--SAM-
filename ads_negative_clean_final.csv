@@ -1,4 +1,7 @@
 clean_text,label
+"- Hello. - Yes, please come in.",0
+"This book is very hard to find, especially the latest edition.",0
+You're welcome.,0
 .ما می خواییم دفاترمون رو برای بازرسی نامحدود باز کنیم,0
 این یه متلاشی کننده است؟ !فکر کردم یه بزرگ کننده کیره,0
 ،لعنتی .منشیه دوباره از من زرنگتر بود,0
@@ -8,7 +11,7 @@ clean_text,label
 ،نظرت چیه که یه کار بزرگ بکنیم بعد بکشیم بیرون؟,0
 ،خونه رو بخربد، نخرید، به شما پیشکک شده .نزارید رو تصمیمتون تاثیر بزاره,0
 .ببینید، یه خریدار مسمم دیگه - .سلام، من یه خریدار مسمم دیگه هستم -,0
-"اون بچه تو فیلم ""جری مگور"" رو یادتون میاد؟ (فیلمی از کامرون کرو محصول 1996)",0
+"""اون بچه تو فیلم """"جری مگور"""" رو یادتون میاد؟ (فیلمی از کامرون کرو محصول 1996)""",0
 !و مطمئن بشم بالش برای سر بزرگش وجود داره,0
 .رستوران خانوادگی ما رو بخرید,0
 ،تو مزرعه مردی، مردم دارن دنبالت میگردن .مامان هفته ها نمیتونه پیدات کنه,0
@@ -86,7 +89,7 @@ clean_text,label
 ...این شبیه دریاچه کنار خونه مادربزرگم نیست,0
 ...چون اخرین باری که استیوی رو دیدم,0
 ...مادربزرگم بهم شکلات داغ و نان میداد,0
-"...مادربزرگم بهم شکلات داغ و نان میداد""",0
+"""...مادربزرگم بهم شکلات داغ و نان میداد""""""",0
 چهقدر بااحساس سربازرس,0
 تا روزی که مادربزرگت مرد باری روی دوش اون بودی,0
 چرا بهم نگفتی که استیوی میخواسته باهات صحبت کنه؟,0
@@ -227,8 +230,8 @@ clean_text,label
 بدون وودی چون الان میتونم این فیلمها,0
 اون هربار که یک فیلم شروع میشد خیلی میترسید,0
 اگر دوستدخترش نبود توی فیلمها حضور نداشت,0
-"جایی که میگفت ""میا در این فیلم عالیه، یا چیزی شبیه این""",0
-"در فیلم بعدی ""سپتامبر""",0
+"""جایی که میگفت """"میا در این فیلم عالیه، یا چیزی شبیه این""""""",0
+"""در فیلم بعدی """"سپتامبر""""""",0
 فکر میکردم اون داره لطف بزرگی بهم میکنه,0
 اون کوچکترها رو میبرد خرید و براشون چیز میخرید,0
 همونطور که گفتم هواپیما میخرید حقههای جادویی,0
@@ -245,15 +248,15 @@ clean_text,label
 در مدرسه افتضاح بودم، شغل بزرگی نداشتم.,0
 منم. کلی چیز از بازار خریدم.,0
 .یکی از بزرگترین فروشنده های تشک تو شهرمونه,0
-".تو فیلم ""بی خوابی در سیاتل"" رو داره",0
-"!""مثل فیلم ""هویت بورن",0
+""".تو فیلم """"بی خوابی در سیاتل"""" رو داره""",0
+"""!""""مثل فیلم """"هویت بورن""",0
 .دارم میگم به این بزرگی بود,0
-".""به جز تو فیلم های ""کریستفر نولان (کارگردان سه گانه بتمن)",0
+""".""""به جز تو فیلم های """"کریستفر نولان (کارگردان سه گانه بتمن)""",0
 باورم نمیشه استلیو کانتوس .بزرگ رو ملاقات کردم,0
 .من بزرگترین فرصت شغلی رو در تاریخ بهت دادم,0
 فقط یه پاساژ بزرگ خریده؟,0
 هی میتونی به یه خیارشور بزرگ با قسمت های دخترونه تبدیل بشی؟,0
-"!خودم همین حقه رو تو فیلم ""همبرگر خوب"" زدم",0
+"""!خودم همین حقه رو تو فیلم """"همبرگر خوب"""" زدم""",0
 .پس شروع کرد به خرید کردن,0
 و به نظر میاد داریم به اختتامیهی بزرگش نزدیک میشیم,0
 تو مزرعهی حیوونات خونگی بزرگ شدی؟,0
@@ -287,11 +290,11 @@ clean_text,label
 این یعنی میخوای کمک کنی؟ - .نه. منم تو بازی راه بده، بابابزرگ -,0
 جوون، تو داری پیشنهاد میکنی ،من زره ازمایشی,0
 اگزو-بت ضعف داره؟ چیه؟ کریپتونایت؟ رنگ زرد؟,0
-".اما امروز یه روز بزرگه ""روز رفتن به سر کار با بزرگترها""",0
+""".اما امروز یه روز بزرگه """"روز رفتن به سر کار با بزرگترها""""""",0
 این خبر خیلی بزرگیه. خیلی بزرگ,0
 باشه. برو واسه خودت یه فیلمبردار جدید پیدا کن,0
 یه پروندهی راکده که صاف از تو فریزر دراومده,0
-"یا بابابزرگ باتلاقی، یا همون ""پدرخواندهی باتلاقی""؟",0
+"""یا بابابزرگ باتلاقی، یا همون """"پدرخواندهی باتلاقی""""؟""",0
 اینطوری نگو. ولی خب یه فیلمبردار جدید لازم دارم,0
 به این زودی فیلمبردار جدید؟,0
 من از این فیلم میگیرم,0
@@ -326,7 +329,7 @@ clean_text,label
 افتخار باعث خشنودیه خدا حتما برات بزرگی قرار داده,0
 اره اون ضعیفه بزرگ رو شناختم,0
 امشب یه ستاره ی جدید توی اسمونه یه خال جدید روی نوک دماغه یه پری بزرگ,0
-".بند کنم رو مغازهدارا الکی ""سلام بزرگوار""",0
+""".بند کنم رو مغازهدارا الکی """"سلام بزرگوار""""""",0
 .این خیلی تغییر بزرگیه,0
 ببین کی اینجاست خانم کوچولوی بزرگ من,0
 رهبری من امروز تحت یک .ازمون بزرگ قرار داره,0
@@ -364,7 +367,7 @@ clean_text,label
 ‫واقعا خیلی متاسفم، بازرس.,0
 ‫میدونستی اون وقتا، از منجنیقهای بزرگ استفاده میکردن,0
 ‫یه کلاه نو خریده بودم.,0
-"""‫داریم میریم سینما، فیلم ""ساندرا داریک .رو دوباره تو سینما ریالتی نمایش میدن",0
+"""""""‫داریم میریم سینما، فیلم """"ساندرا داریک .رو دوباره تو سینما ریالتی نمایش میدن""",0
 ‫ولی رد بزرگترش هنوز واضح مونده.,0
 ازتون میخوام اونو حمایت کنید نه اینکه شرمندهاش کنید,0
 قراره فضای بزرگ و شیکی داشته باشی,0
@@ -417,7 +420,7 @@ clean_text,label
 اصل و نسب بزرگترین دستاوردهای انسانی,0
 او با مادربزرگش زندگی میکرد و با وجود سختی بزرگ,0
 پس چالش کوندراتیوک این بود تا بزرگترین,0
-"به قدری در اخر بزرگ شد که اسمش را ""ماستودون"" گذاشتند",0
+"""به قدری در اخر بزرگ شد که اسمش را """"ماستودون"""" گذاشتند""",0
 برای رسیدن به ماه به یک موشک بزرگ قدرتمند نیاز است,0
 خم کردن گرانش برای نیاز انسان در مقیاسی اندکی بزرگتر را داشت,0
 در زمان که خیزش بزرگ امونیاک به نزدیکی قطبها میرسد است,0
@@ -453,7 +456,7 @@ clean_text,label
 ‫سواحل، میزبان بزرگترین ‫امواج جزرومدی بودند,0
 ‫مغز بزرگتری نسبت به ما داشتند,0
 ‫و گیاهان بزرگتر، قادر ‫به انجام این کار نیستند.,0
-"‫یا ""سوکی"" مانند پدر و پدربزرگش ‫میخواست دکتر بشه.",0
+"""‫یا """"سوکی"""" مانند پدر و پدربزرگش ‫میخواست دکتر بشه.""",0
 ‫یک پیشگویی بزرگ و تراژدیک گرداوری بکنه.,0
 ‫جامعه بزرگتری از دانشمندان اقلیمی ‫پیشبینی,0
 ...میدونی من ازش حمایت می کنم ؛ میدونی,0
@@ -643,7 +646,7 @@ clean_text,label
 ‫گروه حمایتی داری ‫ که توی جلساتشون شرکت کنی؟,0
 ‫محبوبترین عضو گروه حمایت از ‫بیماران سرطانی مرحلهی چهاری,0
 ‫مثل فیلمای هالمارکی ‫(شبکهای امریکایی),0
-"‫فیلم ""مالی تو کریسمس ارضا میشه""",0
+"""‫فیلم """"مالی تو کریسمس ارضا میشه""""""",0
 ‫نیکی، چه کاری از من برمیاد؟ ‫بذار یه کاری برات بکنم,0
 ‫- معلومه که خریدم ‫- ممنون,0
 ‫توی اینستاگرام یه چیزی دیدم ‫و توش حلقه دستت بود,0
@@ -702,7 +705,7 @@ clean_text,label
 ‫فکر کردم شاید بتونیم .با هم بریم خرید لباس,0
 ‫دربارهی تکنولوژی مزرعههای بادی,0
 ‫پدربزرگم بهم یاد داده تجارت 24 ساعتهست.,0
-"رزرو شما در ""بیسترو ژینت"" تایید شد",0
+"""رزرو شما در """"بیسترو ژینت"""" تایید شد""",0
 ‫سلام مامان، تازه رستوران رو رزرو کردم.,0
 ‫مستقیم از مزرعه میام.,0
 ‫خب... فکر نمیکردم .مسئله به این بزرگی باشه,0
@@ -763,7 +766,7 @@ clean_text,label
 این سری، مار گردن زرد ببری یه قدم عقب تره,0
 (ما کوانگ سوک، مار گردن زرد ببری),0
 یه مار؟- این مار گردن زرد ببریه؟-,0
-"""مار گردن زرد ببری که اسم مستعارش ""ساقه گله",0
+"""""""مار گردن زرد ببری که اسم مستعارش """"ساقه گله""",0
 اگه بحث پول نبود، چرا باید با کسی که 25 سال ازش بزرگتره,0
 خرید خونه هم که بماند,0
 ،براش حلقه بگیرم و یه میز تو یه رستوران شیک رزرو کنم,0
@@ -774,7 +777,7 @@ clean_text,label
 از اونجایی که بزرگترامون این قرار رو ترتیب دادن، اخر سر اومدم,0
 تمام تلاشم رو میکنم که یونگ جو رو توی بهترین شرایط ممکن بزرگ کنم,0
 ...یه عمل جراحی بزرگ دارم,0
-"میگن ""بچهها با بزرگ شدنشون “قلب پدرمادرشون رو میشکونن",0
+"""میگن """"بچهها با بزرگ شدنشون “قلب پدرمادرشون رو میشکونن""",0
 وقتی عصبانی هستی، کاری از دستت برنمیاد,0
 اگه توی مسائل مالی کمکت نکنم، دیگه چه کاری از دستم برمیاد؟,0
 میپرسی فایدهی یه خانوادهی بزرگ چیه؟,0
@@ -952,7 +955,7 @@ clean_text,label
 یک سال پیش، من به سرعت وارد یک تیم بزرگ شدم،,0
 او شانس بزرگی دارد. در واقع، او قبلا فراری را پشت سر گذاشته است.,0
 اما کریستین و کل تیم، انها بسیار از شما حمایت کرده اند،,0
-"و ما تمام تلاش خود را برای حمایت و توسعه او انجام می دهیم.""",0
+"""و ما تمام تلاش خود را برای حمایت و توسعه او انجام می دهیم.""""""",0
 که می بینید رانندگان بزرگ دارند.,0
 به... نشان دادن به روسای بزرگ، واقعا،,0
 و این یک حادثه بسیار بزرگ است.,0
@@ -1040,13 +1043,13 @@ clean_text,label
 ولی بعد از اینکه حمل و نقل چونگایل رو خریدن,0
 !همهاش یه لطف راکتیه که تو برام خریدی,0
 چون پشتش یه حمایتای شهردار گرم بوده,0
-"،اگه قاشقتون خیلی بزرگ باشه""",0
-"به سلامتی ""فداکاری های کوچیک برای کارهای خیر بزرگ""",0
+"""،اگه قاشقتون خیلی بزرگ باشه""""""",0
+"""به سلامتی """"فداکاری های کوچیک برای کارهای خیر بزرگ""""""",0
 ‫قرار بود من کاپیتان باشم، ‫ولی هیچ کاری از دستم بر نمیاد,0
 ‫واسه همین دارم سعی میکنم ‫هر کاری از دستم بر میاد انجام بدم,0
 ‫-رزرو هتل یا مکانهای توریستی لازمه ‫-خب، کارت خوب بود,0
 ‫احتمالا فرمانده رو هم خریده,0
-"‫اما پایان تو بسیار بزرگ خواهد بود""",0
+"""‫اما پایان تو بسیار بزرگ خواهد بود""""""",0
 ‫این مزخرفات تو خیابونهای من خریدار نداره,0
 ‫که منجر به یه عملیات بزرگ کنترل افات شد نیشش رو ببین,0
 ‫خیلی بزرگه گفتی مورچه اتشین قرمز؟,0
@@ -1126,8 +1129,8 @@ clean_text,label
 ‫تمام دوربینهای بزرگراه همهی دوربینهای مداربسته،، هر دوربینی,0
 ‫هیچ فیلم مفیدی .برای حذف جورجیا رایت پیدا نکردیم,0
 ‫عمیقی از پدربزرگت داشتی.,0
-"‫به همین دلیله که خون پدربزرگت روی .لباسهایی که تو خونه ""روبن"" پیدا کردیم، بود",0
-"‫""روبن مگوایر"" پدربزرگ منو نکشته.",0
+"""‫به همین دلیله که خون پدربزرگت روی .لباسهایی که تو خونه """"روبن"""" پیدا کردیم، بود""",0
+"""‫""""روبن مگوایر"""" پدربزرگ منو نکشته.""",0
 کلوب رمزگشایی اسرار همونطور که از اسمش پیداست به دنبال کشف 6 راز بزرگ دانشکده ی ماست,0
 تو بیشتر از این نمیتونی خوش تیپ تر بشی، اینترنت از فیلم و عکست پوکیده,0
 لطفا احساسات منم درک کن، برادر بزرگ بخشنده,0
@@ -1146,7 +1149,7 @@ clean_text,label
 ... دستور همچین عملیات بزرگی,0
 اوه ... صدراعظم نوروی بزرگ,0
 و این ردپاها هم مال یه حیوان بزرگ هستن,0
-"یا فلانی از ""بزرگ شدن بریدی""؟",0
+"""یا فلانی از """"بزرگ شدن بریدی""""؟""",0
 بابی، برای بزرگترین و تختترین تلویزیونی که,0
 دوست دارم با همهتون خرید کنم.,0
 دو تا فیلم راب اشنایدر همزمان رو صفحه.,0
@@ -1156,7 +1159,7 @@ clean_text,label
 مثل روشی که پدربزرگم وقتی میره شکار از صدای اردک استفاده میکنه؟,0
 بزرگترین هدیه رو بدم:,0
 و دارم هر چیزی که در مورد بزرگ کردن بچه میدونم رو بهشون یاد میدم.,0
-"بله. و اگه بابی از اون بچههایی باشه که لوان میخواد بزرگ کنه,",0
+"""بله. و اگه بابی از اون بچههایی باشه که لوان میخواد بزرگ کنه,""",0
 که وارد دنیا بشه -- احاطه شده توسط یه شبکه حمایتی.,0
 تو تو یه مزرعه گندمی. یه نسیم ملایمی میاد...,0
 باشه، یه مزرعه گندم پر از نسیم و دردناک.,0
@@ -1197,7 +1200,7 @@ clean_text,label
 اگه رد تزریق هم بمونه ممکنه تو خطر بیفتیم,0
 توی یتیم خونه بزرگ شده,0
 پنتوباربیتال که به اقای کانگ یون تزریق شد رو چک کردی؟,0
-"با تزریق پاولون ""کمکشون"" میکنه بمیرن",0
+"""با تزریق پاولون """"کمکشون"""" میکنه بمیرن""",0
 بعد از تزریق مورفین خوابش برده بود,0
 حضور در کوانتیکو برای من شوک فرهنگی بزرگی بود,0
 برای رسلر این همیشه سوال بزرگی بود,0
@@ -1218,7 +1221,7 @@ clean_text,label
 اما اون بخش بزرگی از این داستانه,0
 ‫برام یه رزرو ردیف کن,0
 ‫رزرو دارین؟ ‫‫ بله کانر، میز برای 3 نفر,0
-"‫نماهای خارجی در فیلم ""داستانی از برانکس""",0
+"""‫نماهای خارجی در فیلم """"داستانی از برانکس""""""",0
 ‫اره، دیروز تو روچستر خریدمش,0
 ‫خب، با این پول میشه کلی پوشک خرید,0
 اگه بابابزرگش بفهمه، فاتحهش خوندهست,0
@@ -1341,3 +1344,1663 @@ clean_text,label
 خودم ازت حمایت میکنم,0
 گمون کنم میتونستم انقدر فیلم و سریال ببینم تا باطریم تموم بشه,0
 باید برنامههای بیشتری رو دانلود میکردم,0
+"Hey, Bom, look at your hair. like a flower garden!",0
+When did I say anything like that?,0
+"After the bus leaves, don't regret it.",0
+Try to express your feelings.,0
+It's really not what you think.,0
+"Oh my gosh, sir. Really, it's not like that.",0
+This is a story about a beautiful princess named Hwa Ri.,0
+"Princess Hwa Ri's world is so peaceful, safe,",0
+and very simple.,0
+"Even though this world is ordinary, there is a growing trend,",0
+that makes women's hearts become restless.,0
+It is a romantic novel book titled Chun Hwa's Love Story.,0
+"...a princess from Country Dongbangguk named Chun Hwa,",0
+and had promised to be together forever.,0
+"Due to strict royal rules, they were forced to separate.",0
+"However, Chun Hwa who couldn't forget her lover,",0
+finally crossed Mount Goldam to meet him.,0
+...will start this story starting from Chun Hwa's Love Story.,0
+"""Chun Hwa lost her mind, carried away by her husband's sweet breath,""",0
+"""and his soft touch which was also full of passion.""",0
+"""As his other finger slowly entered,""",0
+"""Chun Hwa's body responded, wide open, wet with passion.""",0
+"But even if I buy it, I still can't read it.",0
+They buy to see the illustrations!,0
+Let's collect money and buy it together. Yes?,0
+"If you don't buy now, it will be difficult to get it again later.",0
+- The young lady of Mr. Park's family. - Yes.,0
+"This outfit will not be the same with children from other families, right?",0
+"I have given more money to Mr. Park's wife,",0
+"If this continues, My ribs could break!",0
+"This red color, please make it a little softer.",0
+"To make it look natural, and not too try-hard.",0
+"However, I can't compete with the luxurious outfits of the Royal Princesses.",0
+I need to hear a love confession!,0
+"Miss, I thought you could do better than this.",0
+I have confessed my feelings.,0
+"I'm already beautiful, right?",0
+"- Oh my gosh, this is driving me crazy. - Move!",0
+"Miss's Marriage to His Highness The Great Prince has been determined,",0
+"so there's no need to dress up anymore, right?",0
+What has been determined?,0
+There is no formal marriage proposal yet!,0
+that His Highness The Grand Prince has fallen in love with Miss?,0
+but Miss hasn't heard anything from him?,0
+"His Highness The Grand Prince, he doesn't look like the type,",0
+"and doesn't actually marry Miss in the end,",0
+I heard Dad has already agreed.,0
+Is the young master still away?,0
+"Since this calligraphy meeting is being held at the home of such a high ranking official,",0
+I have prepared some deep questions...,0
+- I'm curious too. - I have a question too.,0
+Looks like Jang Won just left for the Royal Academic Institution.,0
+"Okay, how about we get this calligraphy meeting started?",0
+Princess Hwa Ri still hasn't arrived.,0
+"After all, it was The Princess who suggested us to paint today.",0
+The Princess will not come.,0
+That's just how The Princess is.,0
+She couldn't come because of a very important matter.,0
+"But what important business,",0
+can make her forget previously made plans?,0
+Don't talk carelessly!,0
+"Everyone in this town knows,",0
+that Princess Hwa Ri likes her cousin.,0
+"is the story circulating true? about how Chun Hwa's Love Story,",0
+With the background of her love story being about loving her adopted cousin,0
+and also being set in a palace...,0
+Isn't it too similar to Princess Hwa Ri's story?,0
+...whether Chun Hwa's Love Story is really based on Princess Hwa Ri's story or not.,0
+"Even though there are those who have not read the book,",0
+those who have read it have surely read it more than once!,0
+"Without reading Chun Hwa Love Story,",0
+no one can join in the conversation of other women!,0
+The book is becoming a huge trend.,0
+Could it be that Her Highness The Princess Consort and Miss Ji Won haven't read it yet?,0
+I have nothing to say about the storyline itself,0
+but the depiction of the relationship between the man and woman...,0
+...feels so realistic.,0
+Is it true that male genitalia that is alive...,0
+...can stay erect regardless of time and place?,0
+I'm just saying what is written in the book.,0
+Want to try hanging on my arm?,0
+You can even hang your legs!,0
+"When my siblings were little,",0
+"they could hang on each of my arms,",0
+and I could even spin them!,0
+"Oh man, why is he showing off his muscles there?",0
+"His energy should be used for something else, right?",0
+I heard that Prince Hwa Seong is still a virgin.,0
+"...but after seeing this, I am convinced.",0
+Remember the overnight field trip during our time at the Royal Academy Institution?,0
+"Even though I was half asleep, I could clearly see his 'small part'",0
+standing upright.,0
+you could see his 'small part' that clearly?,0
+"Aren't you curious, ""How does it look like on others?""",0
+Is there anything interesting to watch here?,0
+"If you are curious, don't make noise and come closer.",0
+I heard that Prince Hwa Seong has made up his mind to leave his bachelorhood behind tonight!,0
+"I only hang out with guys and am busy practicing martial arts,",0
+so I am asking you because I don't really understand women's feelings.,0
+Why is my fiancé always angry? every time shes sees me?,0
+How could there be a woman who doesn't like a dashing man like you?,0
+"Don't just talk, do something!",0
+"You seem to understand women's feelings very well, huh?",0
+...have a lot of dating experience.,0
+"I am the second biggest player after Choi Hwan,",0
+the number one womanizer in the capital!,0
+Choi Hwan is the number one womanizer in the capital?,0
+It looks like it's your first time at the capital.,0
+"Waiting for His Highness The Prince to lose his virginity,",0
+Is making my waist sore.,0
+I wonder if this is even going to work out today.,0
+But Jin is a specialist in plain men.,0
+"If you have doubts about His Highness The Grand Prince,",0
+"Instead of getting bored just waiting,",0
+"Will Jin, the plain man specialist,",0
+succeed in taking The Prince's virginity?,0
+There are bets on whether the Grand Prince will mange to lose his virginity!,0
+Will His Highness The Grand Prince lose his virginity?,0
+Will Jin from the Cheongwoon Courtesan House succeed in taking...,0
+...His Highness Prince Hwa Seong's virginity?,0
+"Oh my, from Cheongwoon Courtesan House?",0
+His Highness Prince Hwa Seong and Kim Hyo Jin.,0
+"Now at Cheongwoon Courtesan House,",0
+there is a bet on whether His Highness The Prince will give up his virginity or not.,0
+"Somehow, the stakes are getting higher!",0
+Cheongwoon's Courtesan House is filled with people who went to watch!,0
+"A bet on His Highness The Grand Prince's virginity, yes...",0
+I'm really disappointed in Brother Yeol.,0
+"Indeed, a man's promise can change often like the wind,",0
+but how is it possible that someone's virginity...,0
+...is made into an open betting material like this?,0
+How can someone who will get married to Miss Ji Won soon,0
+openly visit a Courtesan?,0
+This is an insult to his fiancé!,0
+are always taught to maintain honor like one's own life.,0
+"However, how is it possible that the honor of a man",0
+can be considered trivial like this?,0
+"If you want to calm your lover's anger,",0
+you should give her a lot of affection.,0
+"- Okay, do you want to start now? - Good start!",0
+What are you doing?,0
+How come you're here?,0
+I never thought the rumors were true!,0
+"How could a prince who should be a role model for the people,",0
+"This is just a misunderstanding, Ji Won!",0
+Where are you going in such a hurry?,0
+"Who else could be a reckless thief,",0
+"and dare to wear childhood clothes of His Highness Prince Hwa Seong,",0
+I'm really lost for words!,0
+"A prince visits a Courtesan house to lose his virginity,",0
+and a princess making a bet on the Prince's virginity?,0
+"How could the royal family that should be a role model for the people,",0
+Lee Jae Sang's already views us poorly,0
+"And now, you guys are acting this stupid!",0
+"The men visiting the Courtesan house is common,",0
+so people will only laugh about the Prince's visit.,0
+Princess Hwa Ri going there disguised as a man.,0
+Princess Hwa Jin was there too!,0
+With the girls from the calligraphy meeting...,0
+Don't Father and Brother also often disguise themselves and leave the palace?,0
+But you are a woman!,0
+That's why I wore Menswear!,0
+"The Prince and Princess must restrain themselves,",0
+and I forbid you to leave the palace for the time being!,0
+"It seems they were already too fed up to see us,",0
+so we were immediately told to leave.,0
+"You never run out of ways to make trouble,",0
+"It's not her who's in trouble this time,",0
+"Miss Ji Won who is already difficult to approach,",0
+now won't even want to see me anymore!,0
+...and go to the Courtesan house to lose your virginity?,0
+"If it worked, I could still understand,",0
+- but it never even got started. - You!,0
+Aren't you embarrassed to say that?,0
+"If not for that, we would not have been born into this world.",0
+I'm really worried about who who would possibly be your future husband.,0
+I already have a plan!,0
+"By the way, how long? will we be banned from going out?",0
+I heard uncle and brother Chae Jun brought me a gift from Yanjing.,0
+Must bear the responsibility in the end.,0
+"I am the one who wanted to give them all the the freedom,",0
+at least before they got married.,0
+the ministers will definitely throw endless criticism.,0
+Would you like some tea before you go?,0
+The royal wedding ceremony is coming soon.,0
+She didn't even smile when she looked at me.,0
+The siblings were caught red-handed together at the Courtesan house.,0
+The empress's dignity was completely tarnished.,0
+was wearing men's clothing and peeking at her brother in the private room.,0
+This has really gone beyond the limit. It's a shame for the royal family.,0
+The Princess's impudent behavior is truly endless.,0
+will no longer remain silent on this issue about The Princess and the Grand Prince.,0
+"Then, what about the wedding plans? between Miss Ji Won and the Grand Prince?",0
+"Is Miss Ji Won, famous as a woman of noble character,",0
+"still going to get married to the Prince,",0
+after enduring such shame?,0
+What does a royal family wedding have to do with a woman's feelings?,0
+"In addition, Mr. Hwa Ing,",0
+it's better for the time being to avoid the Courtesan house for now.,0
+Always remember that there are many eyes on us.,0
+"Tomorrow, there will be so many things,",0
+that we can report to His Majesty The King.,0
+His Majesty The King has arrived.,0
+"Your Majesty, please let me submit a report...",0
+There is something I want I asked first.,0
+"I heard that Prince Hwa Seong and Princess Hwa Ri,",0
+"created a commotion in the capital yesterday, right?",0
+"I intend to discipline them in a major way,",0
+and immediately arrange their wedding.,0
+I agree with Your Majesty's decision.,0
+"If so, please decide on an appropriate date for the wedding immediately.",0
+"between Prince Hwa Seong and Lee Jae Sang's daughter, Ji Won.",0
+Arrange Princess Hwa Ri's wedding,0
+I'm getting married!,0
+"I came to offer gifts and deliveries,",0
+which is given specifically by Father.,0
+I will make up for it during our life together.,0
+What do you mean less?,0
+This is more than enough.,0
+Looks like she's still angry since the incident few days ago.,0
+Is she still very angry?,0
+I am not interested.,0
+Why did His Highness The Grand Prince foolishly go to a place like that...,0
+"Ji Won, His Highness The Grand Prince has arrived.",0
+"Ji Won, I was definitely in the wrong.",0
+"Even though you were cold towards me that day,",0
+I shouldn't have gone there in such a rush with anger.,0
+"Even though I went there, I didn't do anything.",0
+His Highness The Grand Prince came all the way to apologize to you directly.,0
+Are you sure you don't want to see him?,0
+Don't be angry anymore.,0
+I went to the Courtesan house?,0
+Or is it that I spread gossip about our my love for you?,0
+Did Your Majesty apologize without knowing your mistake?,0
+"Whatever it is, it's my fault.",0
+Everyone knows that His Majesty wants to marry me.,0
+has your majesty ever asked me directly?,0
+Has Your Majesty ever proposed to me directly?,0
+The woman that His Majesty supposedly loves so much?,0
+But our relationship has been such that we have been engaged from the beginning.,0
+And I have also received permission from Mr. Lee Jae Sang.,0
+But I am the one getting married to you.,0
+"That is what is strange,",0
+and it makes me angry.,0
+Am I just a complementary part of this marriage?,0
+That's not what I meant.,0
+"Today, it would be best if Your Majesty returns home for now.",0
+It seems like our girl was really offended.,0
+I will explain well so that she understands.,0
+The fact that she asked why her permission was not taken-,0
+"His Highness The Grand Prince, polease do not do this.",0
+"Your Majesty shouldn't have to do this, please get up.",0
+"- What is happening?, - Miss, what should we do?",0
+His Highness The Grand Prince has knelt down.,0
+"My heart is too lost in feelings of love,",0
+"Even if I get married a hundred times, if it's not you, what's the point?",0
+give me one more chance.,0
+I heard Father ordered to find a husband for me.,0
+"Yes. In the near future, we will find a partner,",0
+that suits you and hold a wedding.,0
+That's what I want to say to Father and Mother.,0
+...have someone in mind already.,0
+"Park Chae Jun, one of the delegated envoys to Yeongyeong.",0
+"You mean Chae Jun, your uncle's adopted son?",0
+Even though you are my beloved daughter there is still a limit.,0
+What are you guys doing? Throw out this impudent person immediately!,0
+I am ready to accept the punishment.,0
+It was my fault for not being able to understand our daughter's feelings early on.,0
+Please do not leave this room until there is an order from His Majesty The King.,0
+"[PARK FAMILY RESORT] His Majesty The King was furious,",0
+so he ordered The Princess to remain inside her room.,0
+"Things that make Her Majesty The Empress worry,",0
+I already have a fiancé.,0
+"If so, I will convey the same.",0
+Her Majesty has arrived.,0
+you should also restrain yourself from leaving the palace.,0
+I heard Princess Hwa Ri is back to making a scene.,0
+"She defied His Majesty The King's orders,",0
+and insisted on getting married with the person she calls cousin.,0
+Even the common people avoid marriage between close relatives.,0
+dare to ask permission to marry her cousin?,0
+"She acts like she is the smartest person in the world,",0
+but acts stupid when it comes to things like this?,0
+"The Princess must learn that not everything in the world works,",0
+"You too, don't be tempted by useless empty wind.",0
+with care and honor.,0
+Her Majesty The Empress enters.,0
+I am increasingly convinced that Brother Chae Jun is the only one for me.,0
+already has a fiancé.,0
+They will get married soon.,0
+He never once went against my words.,0
+"There is not a single person in this country,",0
+who dares to oppose the words of a princess.,0
+Chae Jun is no ordinary person!,0
+"But, for Chae Jun you are a princess he couldn't refuse.",0
+Know that and forget about him.,0
+Who would misunderstand that loving gaze?,0
+"Your mother must have ordered it, right?",0
+"Ordered him to leave me and marry someone else, right?",0
+"If it weren't for that How could it be,",0
+Chae Jun would never treat me like this.,0
+Now even you continue to belittle Chae Jun,0
+How can you blame others for the absence of love!,0
+"If you were not a Princess,",0
+His Highness The Grand Prince...,0
+...is still kneeling in front of Ji Won's room and begging for forgiveness.,0
+"If His Majesty The King gets to know,",0
+that His Highness The Grand Prince is left kneeling like this...,0
+"In the palace, he is indeed His Highness The Grand Prince,",0
+I am entrusting my daughter's future with him.,0
+Let him be punished a little longer.,0
+"If we show authority and strength in the beginning,",0
+Ji Won will be more comfortable in the future.,0
+I'll just talk for a moment with her.,0
+Have you come here to stir up my emotions?,0
+I came to entertain. Do you feel like I'm instigating you?,0
+It seems like you are really good at misunderstanding other's intentions.,0
+I heard you misunderstood with Chae Jun's feelings too.,0
+and the most beautiful in this world.,0
+That feeling can't lie.,0
+He was just forced by circumstances and tried to avoid his feelings.,0
+This problem has gotten bigger.,0
+"He might marry someone, even though there really isn't one.",0
+Are you ready to bear the consequences?,0
+"Seeing Ji Won's character, The Prince will be left outside all night.",0
+If His Highness The Grand Prince hurts himself because of this...,0
+This is a conversation that can only be take place between women.,0
+I didn't know you had such thoughts about marriage.,0
+I just feel relieved as a mother because he loves you so much.,0
+It turns out I've never asked you about your feelings.,0
+Do you dislike Your Highness The Grand Prince?,0
+you definitely won't give him a place by your side.,0
+"His Highness The Grand Prince,",0
+but he still went to the C ourtesan house.,0
+"If one day, he stops loving me,",0
+I won't need to think about things like this.,0
+"Imagining your husband with other women,",0
+will definitely make your heart ache and burn.,0
+"an axe is indeed a tool to cut down trees,",0
+"but the one that moves the axe is its handler, right?",0
+Which tree to cut and how to cut it is something you have to decide yourself.,0
+"So, ask your heart properly once again.",0
+What are you doing here?,0
+"You will not get married to another woman, right?",0
+Answer my question!,0
+But it is true that I will get married to another woman.,0
+You said I was the most precious thing in the world.,0
+and you are still the most precious thing in the world.,0
+But why do you want to marry another woman and leave me?,0
+I don't need my Princess title.,0
+I'm willing to sacrifice everything for you!,0
+We better leave this land together.,0
+"With this money, we can stay secretly anywhere!",0
+"I can throw everything away,",0
+"Everything to you,",0
+"In your world where you have everything,",0
+"you can put in your all for love but for me who has nothing,",0
+Love is not something I can fight for.,0
+"So, please don't bother me anymore.",0
+Until you come to me.,0
+How could that look mean nothing?,0
+I heard a ship is leaving to Yeongyeong tomorrow morning.,0
+I will wait until you come.,0
+Are you not angry anymore?,0
+I will try to feel calmer from now.,0
+What's the matter?,0
+Are you sleeping already?,0
+"For this afternoon,",0
+"No matter how angry I was, shouldn't have done that.",0
+I explained everything to her.,0
+What if His Majesty finds out?,0
+without anyone knowing.,0
+Is this the ship that is leaving? to Yeongyeong tomorrow morning?,0
+Looks like you're trying to sneak out.,0
+Don't you realize you're being followed?,0
+That's all I get for saving you?,0
+Are you trying to run away in the name of love?,0
+What a mysterious woman.,0
+It's not that he can't come.,0
+But it's that he won't come.,0
+"Therefore, Princess Chun Hwa swore a life together forever with her husband.",0
+Becoming one body and one heart.,0
+Both of them became one complete unit.,0
+will never change.,0
+"Hey, Bomb, look at your hair. like a flower garden!",0
+That's really not it as you think.,0
+"...a princess from Dongbangguk Country named Chun Hwa,",0
+and has promised to be together forever.,0
+"However, Chun Hwa who couldn't forgetting his lover,",0
+finally crossing Mount Goldam to meet him.,0
+"""and her soft touch which is also full of passion.""",0
+"Even though the stock is always out, so don't waste the opportunity.",0
+Let's raise money and buy it together. Yes?,0
+"To make it look natural, as if not trying too hard.",0
+"However, I can't compete royal princesses who are full of luxury.",0
+Why don't you want to come in?,0
+I should have been able to hear love confession!,0
+so no need to dress up anymore.,0
+There are no marriage requests yet formally!,0
+if His Highness the Grand Prince fall in love with Miss?,0
+"His Highness the Grand Prince it doesn't look like it,",0
+Is the young master staying in this house still outside?,0
+"Because of this calligraphy meeting held at the home of a high ranking official,",0
+Looks like Jang Won just left to the Royal Academic Institution.,0
+"Okay, how about we get started? this calligraphy meeting?",0
+Even though it's the Princess who suggested us to paint.,0
+Princess's habits are like that.,0
+He couldn't come because there is a very important matter.,0
+until forgetting the promise previously created?,0
+that Princess Hwa Ri is currently liking her male cousin.,0
+"is the story circulating true? about Chun Hwa's Love Story,",0
+"With the background of his love story that likes cousin who was adopted as an adopted child,",0
+Isn't that too similar? with Princess Hwa Ri?,0
+...is Chun Hwa's Love Story really true? about Princess Hwa Ri or not.,0
+but whoever has read it surely once is not enough!,0
+no one can join in the conversation of all women!,0
+"What could it be, Her Highness the Princess Consort? and Miss Ji Won hasn't read it yet?",0
+"The storyline is completely the same does not make sense,",0
+but the depiction relationship between men and women...,0
+...it feels so realistic.,0
+Is it true that male genitalia the one who is still alive...,0
+...can stand without knowing time and place?,0
+"they can hang on each of my arms,",0
+and I can even spin them!,0
+How could someone possibly so insensitive?,0
+Remember the night travel time at the Royal Academy Institution?,0
+"Even though half asleep, I clearly see the 'small part...'",0
+...who stands upright.,0
+"Aren't you curious, ""What kind of people do you think you have?""",0
+"That's why we keep quiet peeking like this, right?",0
+"I only hang out with guys and busy practicing martial arts,",0
+so i ask because i don't really understand women's feelings.,0
+Why is my fiance always angry? every time you see me?,0
+...did you do something what made him disappointed?,0
+How could there be a woman? Who doesn't like a dashing man like you?,0
+"You seem to understand very well women's feelings, huh?",0
+"I am the number two teaser after Choi Hwan,",0
+the number one seductress in the capital!,0
+Choi Hwan the number one seducer in the capital?,0
+It looks like it's your first time come to the capital.,0
+"Waiting for His Highness the Prince to lose his virginity,",0
+instead it makes my waist sore.,0
+"I think it could work today or not, huh?",0
+If you have doubts His Highness the Grand Prince.,0
+"Is Jin the plain man specialist,",0
+will succeed in making the man to lose his virginity or not?,0
+There are bets on whether the Grand Prince managed to lose his virginity!,0
+His Highness the Grand Prince lose his virginity?,0
+Is Jin from the Cheongwoon Gisaeng House will succeed...,0
+...make His Highness Prince Hwa Seong lose his virginity?,0
+"Now at Cheongwoon Gisaeng House,",0
+there is a bet on His Highness the Prince will give up his virginity or not.,0
+Cheongwoon's Gisaeng House is filled with people who came to watch!,0
+"Bet on virginity Your Highness the Grand Prince, yes...",0
+but how is that possible someone's virginity...,0
+...is made into open betting material like this?,0
+"How can someone who will get married to Miss Ji Won soon,",0
+instead openly visiting a gisaeng ?,0
+This is an insult to her fiancÃ©!,0
+always taught to maintain honor like one's own life.,0
+"However, how is that possible? honor of a man,",0
+can it be considered trivial like this?,0
+you should do more give him affection.,0
+"Who else is a reckless thief,",0
+"who dares to wear childhood clothes His Highness Prince Hwa Seong,",0
+That's great too.,0
+"A prince visits a gisaeng house to lose his virginity,",0
+and a princess made it betting material?,0
+Lee Jae Sang's view is already not good for us.,0
+"The men visit the gisaeng house It is common,",0
+Princess Hwa Ri is there by disguising herself as a man.,0
+Princess Hwa Jin is there too!,0
+Aren't Father and Brother also often disguised and left the palace?,0
+That's why I wear Menswear!,0
+and forbidden to leave the palace for the time being!,0
+"It seems they are already too fed up to see us,",0
+"It's not him who's in trouble this time,",0
+now don't even want to see me anymore!,0
+...and go to the gisaeng house to lose your virginity?,0
+"If it works, I can still understand,",0
+I'm really worried who will be your future husband.,0
+I already have a destination!,0
+in the end have to bear his responsibility.,0
+"I am the one who wants they were given freedom,",0
+at least before they get married.,0
+the ministers will definitely return throwing out endless criticism.,0
+There will be soon royal wedding ceremony.,0
+I will never forget it.,0
+The siblings were caught red-handed together at the gisaeng house.,0
+wearing men's clothing and peeking at her brother in the private room.,0
+This has really gone beyond the limit a shame for the royal family.,0
+Princess's impudent behavior truly endless.,0
+will no longer remain silent on negligence of the Princess and the Grand Prince.,0
+"Is Miss Ji Won the famous one? as a woman of noble character,",0
+"still going to get married,",0
+What does it have to do with a woman's feelings? with a royal family wedding?,0
+"In addition, Mr. Hwa Ing also,",0
+better for the time being avoid the gisaeng house for now.,0
+Always remember that many the watching eye.,0
+that we can report to His Majesty the King.,0
+His Majesty the King has arrived.,0
+"Your Majesty, I beg your pardon, let me submit a report...",0
+"I heard yesterday Prince Hwa Seong and Princess Hwa Ri,",0
+I also intend to apply same request.,0
+"If so, decide immediately good date for wedding,",0
+"Arrange it immediately Princess Hwa Ri's wedding,",0
+Listen everyone.,0
+"I came to convey gifts and deliveries,",0
+I will fix it during our life together.,0
+This is even more than enough.,0
+Looks like he's still angry after the incident a few days ago.,0
+Is he still very angry?,0
+"Prince Yeol brings a gift and lots of prizes,",0
+Why is it that His Highness the Grand Prince went there in a frenetic manner.,0
+"Ji Won, His Highness the Grand Prince has arrived.",0
+"Ji Won, I was completely wrong.",0
+I shouldn't have gone there in such an angry state.,0
+"Even though I went there, I didn't do nothing.",0
+"His Highness the Grand Prince is coming straight to apologize,",0
+you really are won't meet him?,0
+And make gossip spread throughout the capital?,0
+Did Your Majesty apologize? without knowing what the mistake was?,0
+Is it true that Your Majesty feels guilty?,0
+The whole society knows His Majesty wants to marry me.,0
+has your majesty ever ask me directly?,0
+"Has Your Majesty ever proposed directly,",0
+the woman that His Majesty loves so much?,0
+"No, actually our relationship it's like getting engaged.",0
+"The one who underwent the marriage was me,",0
+and makes me angry.,0
+Am I just a complement? in this marriage?,0
+"Today, it is better for Your Majesty just go home.",0
+It seemed like the kid was really offended.,0
+I will explain well so that he understands.,0
+Isn't that a strange sign?,0
+"His Highness the Grand Prince, don't be like this.",0
+"It shouldn't be Your Majesty come to this, come on wake up.",0
+"- Miss, how is it? - What are you doing?",0
+His Highness the Grand Prince knelt down.,0
+"Even though I married a hundred times if it's not you, what's the point?",0
+...have found someone the one I want to marry.,0
+"Park Chae Jun, one of the members delegation of envoys to Yeongyeong.",0
+"You mean, Chae Jun is your uncle's adopted son?",0
+"Even though you are the daughter I love, there is still a limit.",0
+Isn't Chae Jun your uncle's adopted son?,0
+What are you guys doing? Why not? Throw out this impudent person immediately!,0
+Please do not enter or exit until there is an order from His Majesty the King.,0
+"PARK FAMILY RESORT His Majesty the King was furious,",0
+so he ordered the princess to remain at his residence.,0
+"Things that make Her Majesty the Empress is worried,",0
+I already have a fiancÃ©.,0
+"If so, I will convey like that.",0
+His Majesty has arrived.,0
+you should also restrain yourself not to leave the palace.,0
+I heard Princess Hwa Ri back to making a scene.,0
+What else did he do this time?,0
+"He defied His Majesty the King's orders,",0
+and insist on getting married with the person he called his cousin.,0
+Even the common people avoid it marriage between close relatives.,0
+dare to ask permission to marry his cousin?,0
+"Always act as if the smartest in the world,",0
+"but instead stupid in something like this, huh?",0
+Her Majesty the Empress enters.,0
+I am increasingly convinced that only Brother Chae Jun is the one who deserves me.,0
+"As I thought, Mother is there on my side, right?",0
+already has a fiancÃ©.,0
+He never once against my words.,0
+who dares to oppose words of a princess.,0
+Who would misunderstand and think that loving gaze?,0
+Chae Jun is impossible treat me like this.,0
+"Now even you continue belittle Chae Jun,",0
+...still kneeling in front of Ji Won's room and beg forgiveness.,0
+that His Highness the Grand Prince left kneeling like this...,0
+"In the palace, he was indeed His Highness the Grand Prince,",0
+"but in my house, he is a future son-in-law.",0
+He is the one I should be trust my daughter's future.,0
+"If from the start we show authority,",0
+I'll just talk a moment with him.,0
+You came to stir up my emotions?,0
+I came to entertain. Do you feel like I'm being inflammatory?,0
+It seems like you are really clever misunderstanding other people's feelings.,0
+I heard you misunderstood too with Chae Jun's feelings.,0
+He was just forced by circumstances and try to avoid it.,0
+"Seeing Ji Won's character, if left alone, he'll probably be up all night.",0
+If His Highness the Grand Prince until it hurts because of this...,0
+There are talks that can only be understood by fellow women.,0
+It turns out I've never done it either ask about your feelings.,0
+Do you hate Your Highness the Grand Prince?,0
+"His Highness the Grand Prince,",0
+"If one day he don't love me anymore,",0
+will definitely make your heart turbulent and burning.,0
+"but that moves the ax blade is the handle, right?",0
+"Which tree will be cut down? and how to cut it,",0
+is something that can you choose and change.,0
+"You will not get married with another woman, right?",0
+But I will get married with another woman is true.,0
+But why did you marry another woman and leave me?,0
+We better leave it this land together.,0
+"Everything for you,",0
+"In your world that has everything,",0
+"love may be worth 100, but for me who has nothing,",0
+love means nothing.,0
+How could that look not mean anything?,0
+I heard the ship leaving to Yeongyeong tomorrow morning.,0
+It doesn't matter?,0
+- But Princess... - Already.,0
+"No matter how angry I am, shouldn't have done that.",0
+I have explained it well.,0
+What if he really leaves?,0
+Looks like you're trying to sneak in.,0
+You don't realize you're being followed?,0
+Is that your only reward for being saved?,0
+But he really didn't want to come.,0
+"Therefore, Princess Chun Hwa swore forever with her husband.",0
+Both of them have just become one complete unit.,0
+"Hey, Bomb, look at your hair. Like a flower garden!",0
+"a princess from Dongbangguk Country named Chun Hwa,",0
+will start this story starting from Chun Hwa's Love Story.,0
+You're very beautiful!,0
+"Okay, how about we get started? This calligraphy meeting?",0
+"is the story circulating true? About Chun Hwa's Love Story,",0
+"cousin who was adopted as an adopted child,",0
+Isn't that too similar? With Princess Hwa Ri?,0
+is Chun Hwa's Love Story really true? About Princess Hwa Ri or not.,0
+"What could it be, Her Highness the Princess Consort?",0
+And Miss Ji Won hasn't read it yet?,0
+it feels so realistic.,0
+can stand without knowing time and place?,0
+"but after seeing this, I am convinced.",0
+who stands upright.,0
+I heard that Prince Hwa Seong has made up his mind,0
+to leave his bachelorhood behind tonight!,0
+so I ask because I don't really understand women's feelings.,0
+Why is my fiance always angry? Every time you see me?,0
+did you do something what made him disappointed?,0
+have a lot of dating experience.,0
+make His Highness Prince Hwa Seong lose his virginity?,0
+is made into open betting material like this?,0
+instead openly visiting a gisaeng?,0
+"However, how is that possible? Honor of a man,",0
+and go to the gisaeng house to lose your virginity?,0
+"By the way, how long? Will we be banned from going out?",0
+"Then, what about the wedding plans? Between Miss Ji Won and the Grand Prince?",0
+"Is Miss Ji Won the famous one? As a woman of noble character,",0
+Did Your Majesty apologize? Without knowing what the mistake was?,0
+Am I just a complement? In this marriage?,0
+have found someone the one I want to marry.,0
+understand our daughter's feelings early on.,0
+I am increasingly convinced that only,0
+still kneeling in front of Ji Won's room and beg forgiveness.,0
+"But, don't make it waiting too long.",0
+Is this the ship that is leaving? To Yeongyeong tomorrow morning?,0
+"This is premium silk imported from Yeongyeong, and there are only three pieces.",0
+This fabric sparkles like a rainbow under the sun.,0
+Is the new edition Chun Hwa Love Story out yet?,0
+There's no word yet on a sequel.,0
+I heard that Princess Chun Hwa's character...,0
+...is inspired by Princess Hwa Ri.,0
+"The Princess chose to be alone because of heartbreak,",0
+so there is no continuation of the story.,0
+"Actually, I feel sorry for the Princess.",0
+I heard she tried to run away from the palace and invited her lover to join her.,0
+But her invitation was rejected.,0
+She even locked herself up for a month.,0
+she must have been devastated.,0
+who is a young 14 year old girl.,0
+Princess's love is unrequited?,0
+It seems that you are very worried about me.,0
+"If you are curious and worried, ask me directly.",0
+This erotica will not give you the answer.,0
+Continue reading.,0
+I will try everything.,0
+The most useless thing in the world is worrying about the Princess.,0
+Her mind is as strong as steel.,0
+"Now, make me become the most beautiful woman in the country.",0
+You are already the most beautifuul.,0
+How could I possibly make you more beautiful?,0
+I plan on properly ending things.,0
+Surely you aren't...,0
+Your hands are like that of a woman who never works hard.,0
+You are good at drawing with those hands.,0
+I am drawing this because I get paid a lot.,0
+girls and mothers believe...,0
+...if they wear clothes worn by Princess Hwa Ri.,0
+They will realize that's not true after looking in the mirror.,0
+Clothes can make people look different.,0
+...more beautiful than usual.,0
+The Princess's aura is very charming today.,0
+Doesn't she look like a general going to war?,0
+Park Chae Jun is getting married today.,0
+"Park Chae Jun, who is the princess' lover, right?",0
+Does she want to cause a commotion at his house?,0
+What's on your mind?,0
+I'm just happy to be able to sit down with my aunt after so long.,0
+Your belly has gotten much bigger.,0
+Aren't you tired?,0
+All women experience it.,0
+...I would be the one to accompanying him at the altar.,0
+Father will soon choose my future husband.,0
+I'm not sure I can be happy with a husband chosen by the elders.,0
+I will have to spend my entire life with my husband,0
+I wish I could choose my own husband.,0
+Marrying a man of equal standing is not always bad.,0
+Marriage is not just between two people.,0
+Everyone is born and raised in different environments.,0
+will it not be easier to adapt to your husband's family?,0
+what man can't love a girl as beautiful as you?,0
+I'm sure you'll get a good husband.,0
+Has Princess Hwa Ri returned safely?,0
+Your Majesty was aware of her escape?,0
+His son hurt our daughter's feelings.,0
+She insisted on wanting to give him wedding gifts.,0
+She has been close to her aunt since childhood.,0
+Maybe this problem is too tough for the princess.,0
+She wanted to stay at Hyo Jin's house for a while.,0
+She will realize that this forbidden love of hers...,0
+...is an insignificant issue in her life.,0
+Even peacocks are not as noisy as him.,0
+He is indeed insensitive and always blunt about his feelings.,0
+That's Prince Hwa Seong's strength.,0
+Not many people in the palace are honest like him.,0
+That's a strength?,0
+"Of course, it is a strength.",0
+It means he has nothing to hide.,0
+Looks like he wants to show off in front of his future wife.,0
+"If I keep playing with him, I will be the one humilated.",0
+You have shown your greatness to your wife many times already.,0
+Miss Ji Won is not easily impressed.,0
+Where are you running to?,0
+- Stop. - I'm already yours.,0
+Your behavior embarrasses me. I don't want to be near you.,0
+What if someone hears?,0
+I want everyone in the world to hear it.,0
+...and you are mine.,0
+"Since that incident, you never-",0
+I'm afraid you regret what happened.,0
+Come closer for a moment.,0
+I want to say something.,0
+Tomorrow I want to visit the library of the Royal Academic Institute.,0
+Are they happy doing it in a carriage?,0
+The Princess has arrived.,0
+There's something I want to say.,0
+Do you evem know what I want to talk about?,0
+"Therefore, I do not want to hear it.",0
+Let's hear what what she wants to say.,0
+- Really? - Are you really serious?,0
+"Yes. Even though I keep refusing,",0
+"Father will still force me to get married anyway, right?",0
+"- Correct. - So, I am willing to get married.",0
+It feels like all of my worries disappeared instantly.,0
+Your request is very unreasonable.,0
+Marriage is a sacred ritual.,0
+How could a princess dare to choose a future son-in-law for the king?,0
+Forget it. It's not going to happen.,0
+That will never happen. Don't talk about it anymore.,0
+You have decided to get married. Just follow your father's wishes.,0
+"- Father, you won't be the one living with him! - This kid!",0
+The person wil be married to me. I will be the one staying with him for life.,0
+What you're saying is too...,0
+We understand. Leave for now.,0
+We raised her without any shortcomings.,0
+How can a girl dare to choose her own partner?,0
+"Your highness, too, ignored Kim Sook Bin who had been chosen as your future wife,",0
+and you married me instead.,0
+Just pretend to lsiten to The Princess' wishes.,0
+"After all, the final candidates for Princess's husband have been determined.",0
+Show her the final candidates before the official annuncement.,0
+"Follow the official procedure, and then finally announce the marriage.",0
+"In that way, we can maintain our dignity and the Princess's pride.",0
+...do I really need to involve the Princess in the last selection round?,0
+It's never been done before.,0
+I've already have an idea.,0
+Her Majesty the Queen will be here soon.,0
+"You haven't been eating enough lately,",0
+So I made your favorite honey cookies .,0
+"When you said you want to choose your own husband,",0
+I thought you were back to being your normal self.,0
+"When I sit still and ruminate,",0
+I feel scared about marrying a man I do not know.,0
+I don't want to get married yet.,0
+I don't understand my feelings.,0
+"Sometimes I'm sad,",0
+and sometimes cheerful.,0
+It must not be easy to calm your heart.,0
+But you chose to move forward instead of just keeping quiet.,0
+"...worries about making you choose your husband at a formal event,",0
+but he gives you the permission to give your vote before the main event.,0
+I have invited the families of the possible candidates to a tea party...,0
+...so you can meet them first and choose the right one.,0
+Meet them and choose the one that suits you best.,0
+Being the King's son-in-law is not easy.,0
+A princess does not need to depend on and follow other people's wishes.,0
+"make a decision that suits your position as the Princess,",0
+and take responsibility for that decision.,0
+and take responsibility for your choice.,0
+...you asked for your Father's permission to choose in the first place?,0
+All who received tea party invitation from the Queen...,0
+...are candidates for the King's son-in-law.,0
+It has been disguised as a tea party.,0
+It's clear that it's an election event for the King's future son-in-law.,0
+"I wouldn't mind if this event was for the Concubine-born Princess Hwa Jin,",0
+but it turns out to be for the notoriously strange Princess Hwa Ri.,0
+I can't possibly refuse an invitation from the Queen.,0
+"But if we go, then someone has to be chosen to be the Princess' husband?",0
+We need to arrange sons' weddings before...,0
+...the marriage ban is implemented for the selection of the Royal son-in-law.,0
+There are many things to worry about.,0
+"she lives her life as if nothing exists, as if nothing matters.",0
+"But as a result, her true personality is revealed.",0
+There is a saying that says that humans don't really change.,0
+When will the tea party be held?,0
+"Even though she is very loved by His Majesty,",0
+"The empress who came from from an ordinary family,",0
+does not fully understand the manners of noble women.,0
+"For noble ladies, they have their own society.",0
+"Thankfully, the weather is sunny today.",0
+They might feel awkward if they learn that this is my husband-selection event.,0
+"Since there is no official order yet,",0
+this will only be considered as a regular tea party.,0
+"Don't feel pressured,",0
+"meet them calmly and comfortably, okay?",0
+The guests started arriving one by one.,0
+even though the tea party is here?,0
+Can you heat the tea again?,0
+Looks like no one is coming.,0
+"It seems that the wives and guests who were invited to the tea party,",0
+I have clearly asked they to come to my party.,0
+Did they not accept my invitation?,0
+organized a charity market to help people having food shortages.,0
+"They said that a tea party can be arranged any time, but",0
+I heard you invited the wives of the officials to a tea party?,0
+"Because you invited them directly,",0
+Is their particpation a direct order from Your Highness the Queen?,0
+"So their particpation is not mandatory, yes?",0
+I just invited them to have tea and have a chat.,0
+"A charity market could have been organized at another time,",0
+"but with Sook Bin holding the market at the same time as my tea party,",0
+Makes it seem as if I lack in kindness.,0
+Is there any fun entertainment here?,0
+"Wait a minute, Mother.",0
+"Come, see me for a moment.",0
+I already repaid you with valuable jewelry that night,0
+You came here all the way to threaten me?,0
+You must have already pawned the jewelry away.,0
+just look at your luxurious appearance.,0
+I am getting blinded by your gold-threaded clothing.,0
+That means I succeeded. My efforts were not in vain.,0
+"you can take the money and secretly report to His Majesty,",0
+you won't get out from here alive.,0
+...am the princess of this country.,0
+"If Your Majesty The Princess considers me as a candidate for your future husband,",0
+You want to take advantage of my weakness and become my husband?,0
+What is your weakness?,0
+It felt like I saw you as a princess for the first time.,0
+I was invited to the tea party by the Empress.,0
+"The famous player in Doseong, who regularly visits the brothel?",0
+"The Choi Hwan who has more money,",0
+- than the kings of this country. That Choi Hwan? - Correct.,0
+"I am the owner of Cheongwoon Gisaeng House,",0
+and the ship to Yanjing is also mine.,0
+Choi Hwan is still unmarried?,0
+"I heard, this event is actually for choosing a husband for the Princess under the guise of a tea party,",0
+The tea party was cancelled.,0
+I came all the way dressed up in this gold-threaded outfit,0
+I should be compensated for all the effort.,0
+"Plus, I'm grateful that my competitors withdrew voluntarily.",0
+"Since I'm the only candidate, will I be chosen as the final choice?",0
+"Even if you don't mean it,",0
+what is lacking for Doseong merchant and a player?,0
+I don't consider the position of the Princess' husband as a joke.,0
+Competimg people for something worthless is not fun.,0
+How about we make an agreement today?,0
+I coincidentally heard that Ms. Sook Bin,0
+opened a charity market that coincided with the Empress's tea party.,0
+"Using money to create problems,",0
+How did Mrs. Sook Bin think about something amazing like this?,0
+and provide assistance for people in need?,0
+There are many people facing a food shortage right now.,0
+I was wondering about what I could do.,0
+"Thank you, all of you noble wives who have supported me.",0
+"Of course, we must help when it comes to good deeds.",0
+But why does the timing coincide? with the Empress' tea party?,0
+The Empress shouldn't hate us for not coming.,0
+"After all, the Empress herself said that it was not mandatory and that there is no coercion.",0
+"By the way, since everyone is here,",0
+I wonder how many people attended the tea party,0
+"There was one person who went, Choi Hwan.",0
+Maybe the position of the royal son-in-law is the only thing he doesn't have yet.,0
+"How is it possible a lowly businessman like him,",0
+comes from a family with long history in public service?,0
+Did Lee Jae Sang's family not come?,0
+They couldn't come because the wedding of the bride and groom is getting closer.,0
+They should have at least sent Mr. Jang Won.,0
+- His hands. - What's that?,0
+I think my sister will like it.,0
+Do you want to give it to your sister?,0
+You are very considerate.,0
+"In my house, there are many things I used as a kid.",0
+"If so, could I please visit your house with my sister?",0
+Why did the Princess come with that man?,0
+"He's handsome too, huh.",0
+I heard the Empress is having a tea party.,0
+I heard you opened a charity market for people who do not have food.,0
+I came to join in this good activity.,0
+A lot has been collected thanks to the help of many people.,0
+You don't need to participate.,0
+"Incidentally, there is a trader who has the same goal of wanting to help.",0
+"Incidentally, I have abundantly excess seeds from the last harvest,",0
+so I wanted to use those to be of assistance.,0
+He is handsome and rich.,0
+"Please share all donations to the people, in the name of the Empress.",0
+"- What? - If it wasn't for the Empress' tea party,",0
+I wouldn't have known about this charity market at the palace.,0
+So all these donations,0
+"are therefore a donation under the Empress' name, right?",0
+All these donations must be given to the people in the name of the Empress.,0
+"With the collective help of Mrs Sook Bin and the Empress,",0
+we can save more than a thousand islands.,0
+I've never felt this happy.,0
+I appreciate your good intentions. and want to give you a gift.,0
+That was a sudden question.,0
+You followed Princess Hwa Ri's wishes and provided assistance.,0
+Do you want to be the Princess' husband?,0
+"Yes, just tell me if there is anything that you want.",0
+...Could you please assist me when I will need your help one day?,0
+I will help you with your request anytime.,0
+"Thank you very much, Your Majesty.",0
+This ceremony will be a success if you stay calm.,0
+"the more I try to stay calm, the more I can't.",0
+It's time to go to the Crown Princess' chambers.,0
+I was ordered to pick up the Princess.,0
+Consider me as a candidate for your future husband.,0
+"Considering is not the hard part, but",0
+Why? For what reason?,0
+...I am fascinated by you.,0
+"After everything is done today, could you spare some time for me?",0
+"Sir is waiting inside, Princess.",0
+Thank you for coming.,0
+I've tried my best to decorate the place.,0
+"The Princess who planned to run away with her lover,",0
+is this your first time falling into a man's arms?,0
+This is my first time trying so hard...,0
+...to win a woman's heart.,0
+"Usually, showing off my wealth is good enough.",0
+"Then, how about we try using the power of alcohol?",0
+"On my way here, I was thinking about something.",0
+Everyone is afraid of being the king's son-in-law.,0
+Why are you so keen on becoming my husband?,0
+I am fascinated by you.,0
+"A man who is fascinated with a woman,",0
+would not look at her with such an expression.,0
+"Do not say such things, even as a joke.",0
+I am not drawn to you because you are a woman...,0
+I am drawn to you because of the kind of person you are.,0
+Tried to elope with your lover.,0
+You even demanded to choose your own husband.,0
+That's why I am intrigued by you.,0
+Will I see things differently when I'm by your side?,0
+I felt such curiousity and excitement after a long time.,0
+..I am too naive.,0
+"Even after losing such a meaningful relationship,",0
+"I am not trying to find the King's son-in-law, but a lover.",0
+"As a princess, I should be looking for a suitable future husband, but",0
+"...still dream foolosh, childish dreams",0
+Would you still want to become the king's son-in-law?,0
+"You were born a princess,",0
+You were brought up with all the luxury in the palace for 18 year.,0
+"How can you be Hwa Ri, if you aren't a princess?",0
+Or they might feel burdoned by the position of the King's son-in-law,0
+I also like you because being with you will elevate my status.,0
+Such people are called materialistic.,0
+"Well, I think of myself as an honest person.",0
+"So please stay a princess, okay?",0
+His Highness the Crown Prince has arrived.,0
+"I'm not late, am I?",0
+You came just in time.,0
+"Hey, you materialistic person.",0
+"Since you claim to be very honest,",0
+Answer with complete honesty without the slightest lies.,0
+I would greatly appreciate that.,0
+"If you weren't a princess,",0
+I would have held you in my arms right now.,0
+"Tell you that everything is fine,",0
+"But since you are a Princess, I can't do that.",0
+You don't even believe that I am infatuated by you,0
+"So, all I can do is console myself with alcohol.",0
+...am curious about what you just said.,0
+Are you sure you won't regret this?,0
+"Full of faint sighs and a sweet, hot taste.",0
+"After that, his fingers merged with her body,",0
+"opening Chun Hwa's softness, making her wet",0
+"Chun Hwa moaned as if she was in pain. Yeong Jun stopped and asked,.",0
+Chun Hwa looked into Yeong Jun's eyes and said...,0
+Is the new edition Chun Hwa Love Story is out yet?,0
+...inspired by Princess Hwa Ri.,0
+"The Princess chooses to be alone because of heartbreak,",0
+I heard he ran away from the palace and invites his lover to join him in running away.,0
+But his invitation was rejected.,0
+He even locked himself up for a month.,0
+He must have been devastated.,0
+It seems you are very worried about me.,0
+This adult story will not give you the answer.,0
+His mind is as strong as steel.,0
+"From now on, make me become the most beautiful woman in the country.",0
+It's already beautiful now.,0
+How can it be more beautiful than this?,0
+I will end our relationship.,0
+Your hands are like a woman's hands who never works hard.,0
+...if wearing clothes that worn by Princess Hwa Ri.,0
+They will realize it is not true after looking in the mirror.,0
+Doesn't he look like general who will go to war?,0
+"That Park Chae Jun Princess' lover, right?",0
+Does he want to make commotion in his house?,0
+What are you thinking?,0
+I'm just happy to be able to sit down with Aunt after so long.,0
+Auntie's belly is getting bigger.,0
+"Auntie, aren't you tired?",0
+...I will be the one accompany her to the altar.,0
+Dad will be here soon choose a future husband for me.,0
+They choose a husband who will accompany my life.,0
+Marry a man of equal standing not always bad.,0
+you will be more adaptable with your husband's family.,0
+what man can't love a girl as beautiful as this?,0
+I'm sure you'll meet good husband.,0
+Is Princess Hwa Ri have you returned safely?,0
+I just want him vent his anger.,0
+That kid hurt our daughter's feelings.,0
+He insisted on wanting to giving wedding gifts.,0
+"Therefore, I let him go.",0
+He has been close to his aunt since childhood.,0
+Maybe this problem is very heavy for him.,0
+He will realize that thinking the rebellious lover...,0
+...can enter ball with one hit?,0
+You're disturbing my concentration.,0
+Your future husband wins!,0
+He is indeed insensitive and always honest about his feelings.,0
+That is Prince Hwa Seong's advantage.,0
+Not many people do transparent like he was in the palace.,0
+Many times I feel ashamed of it.,0
+I will be ashamed if you keep playing with it.,0
+You have shown it many times your greatness to your wife.,0
+"So, I have to collect impressive points...",0
+I'm surprised too.,0
+You! Don't talk about that anymore!,0
+I want everyone to hear it.,0
+"Since that incident, you never...",0
+Tomorrow I want to visit library of the Royal Academic Institute.,0
+"Therefore, Dad didn't want to hear it.",0
+Let's hear what what he wanted to say.,0
+I'm getting married.,0
+Dad will still tell me to get married.,0
+It feels like all of Dad's worries disappeared instantly.,0
+- There are conditions. - What?,0
+That's why I don't want to listen.,0
+How brave a princess choosing a future son-in-law for the king?,0
+You have decided to get married. Just follow Dad's wishes.,0
+He is the husband who will stay forever with me.,0
+Of course I have the right determine my choice.,0
+We understand. Go ahead.,0
+We raised him without any shortcomings.,0
+How dare a girl want to choose your own partner?,0
+You ignore Kim Sook Bin who has been chosen as your future wife.,0
+"Finally, you married me.",0
+"Therefore, pretend listen to what he says.",0
+"After all, the candidate for Princess's husband has been determined.",0
+"Show him the final candidate first,",0
+follow the official procedures to announce it.,0
+"In that way, we can maintain our dignity. the kingdom and the Princess's pride.",0
+but do i need to involve Princess in the last election?,0
+So Mom made your favorite tarae-gwa .,0
+"When you say you want choose your own future husband,",0
+I'm scared when I think I have to marry a man I don't know.,0
+But you chose to move forward rather than just keeping quiet.,0
+"...worry if you choose future husband at a formal event,",0
+but he allows you to vote before the event.,0
+Mom has invited the family aspiring candidates to a tea party...,0
+Meet them and choose that suits you best.,0
+A princess does not need to be shy and follow other people's wishes.,0
+"make a decision that according to your position,",0
+and be responsible on that decision.,0
+and take responsibility for your choices.,0
+...ask Father's permission to choose because you really want to do it?,0
+All who receive tea party invitation from the Queen...,0
+...is a candidate for the King's son-in-law.,0
+It was refined into a tea party.,0
+It's clear that it's an election event the King's future son-in-law.,0
+"I don't mind if this event for Princess Concubine Hwa Jin,",0
+but it turns out to be to choose a husband The notoriously strange Princess Hwa Ri.,0
+I can't possibly refuse invitation from the Queen.,0
+"But what if we go, then someone chosen to be Princess' husband?",0
+"We need to arrange it immediately our son's wedding,",0
+before the official marriage ban enforced throughout the country.,0
+"he lives his life as if nothing exists, as if temporarily forgotten.",0
+"But in the end, his true identity is revealed.",0
+"Even though he is very loved by His Majesty,",0
+"The empress who came from from that ordinary family,",0
+not fully understanding manners of noble women.,0
+"For noble ladies, they are have their own social circle.",0
+Are the guests invited? won't feel burdened?,0
+They might feel awkward if they knew that this is my husband's election event.,0
+"meet calmly and comfortably, okay?",0
+"Don't stand there anymore, Mother.",0
+"The wives and guests who was invited to the tea party,",0
+They didn't accept my invitation?,0
+open charity market for helping people who are having food difficulties.,0
+while looking at flowers can be done at any time.,0
+I heard you invited the wives of officials to the tea party?,0
+they can't refuse even though they have their own business.,0
+"So you don't force it them to attend, yes?",0
+I just asked them to drink tea while chatting.,0
+"It should be a charity market can be opened at another time,",0
+"but seeing Sook Bin hold it at the same time,",0
+It seems my kindness is lacking.,0
+"Wait a minute, Mom.",0
+"Come on, talk to me for a minute.",0
+I have given you jewelry which was very good that night.,0
+Why did you come? just to threaten me?,0
+"You must have used it all her jewels,",0
+You are blinded because this gold plated clothing.,0
+"can earn money and report secretly to His Majesty,",0
+"If you give the position of the princess's husband,",0
+"It seems you misunderstood me, I will greet you in a more formal way.",0
+I was invited to a tea party by the Empress.,0
+"The famous cheater in Doseong, who always comes into the room?",0
+"So, Choi Hwan who has more money,",0
+- than the kings of this country? - Correct.,0
+Choi Hwan is still not married?,0
+"but it seems like I'm the only one coming, huh?",0
+"I've dressed up with this gold plated garment,",0
+so i should get compensation according to my efforts.,0
+"Plus, I'm grateful My competitor withdrew voluntarily.",0
+"Since I'm the only candidate, has this been decided?",0
+what is lacking from Doseong merchant and a cheater?,0
+I don't consider the position Putri's husband as a joke.,0
+Compete with people what's not worth it is boring.,0
+"I heard Mrs. Sook Bin coincidentally,",0
+opening a charity market coincides with the Empress's tea party.,0
+That's Choi Hwan's characteristic.,0
+Why can Mrs. Sook Bin thinking about something amazing like this?,0
+Many people who food shortage now.,0
+"I was thinking, what can i do.",0
+Thank you to the noble wives who have supported me.,0
+"Of course, we have to help good things.",0
+Don't let the Empress hate us for not coming.,0
+"After all, the Empress herself said that This is not an order and there is no coercion.",0
+"By the way, everyone comes here, huh?",0
+"Then, how many people come to the Empress's tea party?",0
+"There was one person who came, Choi Hwan.",0
+Maybe the position of Putri's husband is the only thing he couldn't get.,0
+"How is it possible for a person a lowly businessman like him,",0
+comes from a family with a history long in public service?,0
+They couldn't come because of the wedding. The bride and groom are getting closer.,0
+At least send Mr. Jang Won.,0
+I would be very grateful if you are like that.,0
+"If so, can I do it later? come with my sister?",0
+The princess has arrived.,0
+Why did he come with that man?,0
+Stop paying attention to it.,0
+I heard you opened a charity market for people who lack food.,0
+"Incidentally, there is a trader who has same goal and want to help.",0
+"Incidentally, I have some seeds which I bought when the harvest was abundant,",0
+so i want to add it in this assistance.,0
+"Please share all this help to the people, in the name of the Empress.",0
+"- What? - If there is no tea party from the Empress,",0
+I wouldn't have known there was This charity market is at the palace.,0
+"That means it was sent by the Empress, right?",0
+All this help must be shared to the people in the name of the Empress.,0
+"With the same goal between Mrs Sook Bin and the Empress,",0
+You follow Princess Hwa Ri's wishes and provide assistance.,0
+Do you want to be Princess' husband?,0
+Am I right in saying that?,0
+"Yes, just tell me if there is any what you want.",0
+I will make it happen your request anytime.,0
+This meeting will be a success if your mind remains calm.,0
+"But the more I try to stay calm, the more I can't.",0
+I was ordered to bring the Princess.,0
+"Consider me well, as your future husband.",0
+Are you really want to be my husband?,0
+"After everything is done today, can you spare some time for me?",0
+Isn't this the entertainment room?,0
+"Sir is waiting, Princess.",0
+I've tried hard to decorate it.,0
+"The Princess Who Plans ran away with his lover,",0
+is this the first time you are in a man's arms?,0
+"Usually, by showing a little wealth is enough.",0
+you will never be able to become the king's son-in-law.,0
+Everyone was afraid of being the king's son-in-law.,0
+"However, why do you want to be his son-in-law?",0
+I am falling in love with you.,0
+"A man who falls in love with a woman,",0
+Not falling in love with a woman...,0
+Even asking to choose her own husband.,0
+"Therefore, I am curious.",0
+Will I see things? what's different when it's next to you?,0
+It's been a long time since I was curious and feel the pounding.,0
+After ending such a passionate love story...,0
+"...I still want to search a husband, not a king's son-in-law.",0
+"As a princess, I have to find a suitable son-in-law.",0
+...still dreaming about stupid things.,0
+do you still want to become the king's son-in-law?,0
+"grew up for 18 years in the palace, and raised with all the luxury.",0
+so how can there be Hwa Ri who is not a princess?,0
+Their feelings of retreat because I'm afraid of you.,0
+The feelings of people who feel burdened to become the king's son-in-law.,0
+Their feelings were just that small.,0
+I like it too because of your status will make me more noble.,0
+Such a person commonly called materialistic.,0
+"In my opinion, such a person is honest person.",0
+I can't beat your words.,0
+His Highness the Crown Prince came.,0
+I have to answer honestly how far?,0
+"If you answer with honestly without the slightest lie,",0
+"If only you weren't a princess,",0
+Saying that everything is fine.,0
+"Because you are a Princess, I can't do that.",0
+You don't even believe it that I'm in love with you.,0
+"So, I can only calm down with this alcohol.",0
+Full of faint sighs and a sweet hot taste.,0
+"After that, his fingers merge with the body,",0
+opening and wetting Chun Hwa's softness.,0
+"Chun Hwa groaned as if she was cut, made Yeong Jun stop and ask.",0
+"This is premium silk imported from Yeongyeong,",0
+and there are only three pieces.,0
+inspired by Princess Hwa Ri.,0
+I heard he ran away from the palace,0
+and invites his lover to join him in running away.,0
+that they will looks like a princess...,0
+if wearing clothes that worn by Princess Hwa Ri.,0
+more beautiful than usual.,0
+I will be the one accompany her to the altar.,0
+can enter ball with one hit?,0
+so I can hold her hand.,0
+and you are mine.,0
+"In that way, we can maintain our dignity. The kingdom and the Princess's pride.",0
+but do I need to involve Princess in the last election?,0
+So Mom made your favorite tarae-gwa.,0
+"worry if you choose future husband at a formal event,",0
+so you can meet them first and choose the right one.,0
+ask Father's permission to choose because you really want to do it?,0
+is a candidate for the King's son-in-law.,0
+Are the guests invited? Won't feel burdened?,0
+Why did you come? Just to threaten me?,0
+is the princess of this country.,0
+"I heard, this event is actually for choosing a husband",0
+"for the Princess under the guise of a tea party,",0
+so I should get compensation according to my efforts.,0
+And provide assistance for people in need?,0
+"I was thinking, what can I do.",0
+But why does the timing coincide? With the Empress' tea party?,0
+"After all, the Empress herself said that",0
+this is not an order and there is no coercion.,0
+"If so, can I do it later? Come with my sister?",0
+so I want to add it in this assistance.,0
+"What? If there is no tea party from the Empress,",0
+I appreciate your good intentions. And want to give you a gift.,0
+can you help me sometime?,0
+to win a woman's heart.,0
+Will I see things? What's different when it's next to you?,0
+"I still want to search a husband, not a king's son-in-law.",0
+still dreaming about stupid things.,0
+‫♪ Denmark + Winter - We'll Be Young Forever ♪,0
+‫♪ Holly Humberstone - Down Swinging ♪,0
+‫♪ Ingrid Michaelson - It Never Ends ♪,0
+‫♪ Alanis Morissette - One Hand in My Pocket ♪,0
+‫♪ Tom Petty and the Heartbreakers - American Girl ♪,0
+‫♪ Marshmello & Khalid - Numb ♪,0
+"And here we are, a few years later, and we're in possession of a tool that gives scientists remarkable control over the code of life",0
+Welcome to Synbiobeta 2017,0
+[printer whirring],0
+"Which, that in of itself is scary.",0
+Sebring Convertible,0
+...is sprinkling on some three-year-old Bac-Os to my microwave soup.,0
+"♪ a wink and a smile and a great, old time ♪",0
+[Ninja stars clink],0
+"[Bang, Car alarm blaring]",0
+[Pigeons cooing],0
+"[People shouting, screaming]",0
+[Printer beeping],0
+[Siren wails in distance],0
+[Speaking indistinctly],0
+[Police radio chatter],0
+"[Spectators gasping, camera shutters snapping]",0
+[Bird chirping],0
+[Camera shutter clicks],0
+"- #Righteous, #holla. - #Pandasingle.",0
+[Birds chirping],0
+- Panda: Mee-Mee? - Polar Bear: Meme.,0
+[Indistinct conversations],0
+[Indistinct shouting],0
+[Crowd screams],0
+[Snaps fingers],0
+[Doorknob rattling],0
+♪ Thank you for being a friend ♪,0
+♪ Traveled down a road and back again ♪,0
+"♪ Your heart is true, you're a pal and a confidant ♪",0
+♪ And if you threw a party ♪,0
+♪ Invited everyone you knew ♪,0
+♪ You would see the biggest gift would be from me ♪,0
+♪ And the card attached would say ♪,0
+(light pleasant music),0
+(audience laughing),0
+-: Blanche Devereaux's goin' on a diet.,0
+-: Could you hold off until tomorrow?,0
+I got some Sara Lee stock I'd like to unload.,0
+"-: Wait, can I have those gummy bears?",0
+"-: They are good, aren't they?",0
+"-: Oh, I don't eat 'em.",0
+-: Then why do you want 'em?,0
+-: To play army.,0
+And sometimes I like to line 'em up,0
+around my bed and pretend I'm Gulliver.,0
+"You know, Blanche, you put yourself",0
+through this hell every year.,0
+Are you sure it's worth it?,0
+-: Of course it's worth it.,0
+"On my anniversary, every year since I was married,",0
+I have slipped into my wedding dress,0
+and had my picture taken.,0
+George was always so proud of me for stayin' svelte.,0
+And I'm gonna get into that dress,0
+this year even if it kills me.,0
+-: It's not you I'm worried about.,0
+"The last time you went on a diet,",0
+you turned into that guy from Silence of the Lambs.,0
+You did everything but butter my face.,0
+-: It's gonna be different this time.,0
+"See, I'm on this drink-it-off diet.",0
+"You have two shakes and a sensible meal every day,",0
+you lose weight the fast easy way.,0
+-: I prefer the Italian diet.,0
+"You drink a bottle of wine, make a smart remark,",0
+then get your jaw wired.,0
+"-: Oh, Dorothy, a man called for you while you were out.",0
+Now we can break out that bottle,0
+of champagne we've been saving.,0
+"-: Come on, Dorothy.",0
+We might not get another chance.,0
+"-: Oh, sure we will.",0
+We can just serve it at the wake.,0
+Rose: He says he's in Miami on business,0
+and he wants to see you.,0
+John Neretti called.,0
+I haven't heard from him in almost 40 years.,0
+"Oh, I can't believe this.",0
+-: Who's John Neretti?,0
+"-: Oh, he's a guy who humiliated me.",0
+"-: Could you narrow it down a bit, Dorothy?",0
+-: He's the guy who stood me up for my senior prom.,0
+"-: Oh, Dorothy, I had no idea",0
+you were stood up for your prom.,0
+"I figured you didn't go, but to be stood up.",0
+"-: Oh, John Neretti was one of the toughest",0
+guys in my high school.,0
+"He smoked, he drank, he made those",0
+rude noises under his armpit.,0
+I was totally in love with him.,0
+"And when he asked me to go to the senior prom,",0
+"Oh, when I came down the stairs all dressed,",0
+Ma cried because her little girl was all grown up.,0
+And she remarked that that night would always,0
+be the most memorable and important night,0
+that the two of us ever shared.,0
+"Do you remember, Ma?",0
+-: But John never showed up.,0
+I've never forgotten it.,0
+"But apparently he has,",0
+or he wouldn't have had the nerve to call here.,0
+"-: You're not gonna call him back, are ya?",0
+"-: Oh, absolutely.",0
+"If John comes to Miami, I wanna see him.",0
+"-: I don't think that's such a good idea, Pussycat.",0
+"When John Neretti gets here,",0
+I'm finally going to get my revenge.,0
+He's going to see a beautiful vibrant woman,0
+who's done something with her life.,0
+"-: Well, Dorothy, I'd like to help, but,",0
+I can't go out with him on such short notice.,0
+-: I meant done something with her life standing up.,0
+I'm talking about me.,0
+"Oh, my revenge will be to make John",0
+feel as bad as he made me feel.,0
+"I want him to see me, see my life,",0
+so he'll know exactly what he missed.,0
+"-: She doesn't know a whole lot about revenge, does she?",0
+"-: Well, I'm ready for John.",0
+"Oh, I've waited a long time for this night.",0
+"-: Dorothy, I'm begging you.",0
+"He hurt you once, he'll hurt you again.",0
+-: I am not going out with him.,0
+-: But you said you were gonna make him suffer.,0
+Don't you have to date a man to do that?,0
+-: Not this time.,0
+"No, I have my plan all worked out, step by step.",0
+"First he'll comment on how stunning I look,",0
+"and then I'll say, oh, John, did we have a date tonight?",0
+"Oh, I completely forgot.",0
+"And as he crumbles, I will show him the door.",0
+-: What if he doesn't comment on how stunning you look?,0
+-: Then you'll bring it up.,0
+-: Time for my shake.,0
+"-: Honey, how you doin' with this diet?",0
+Nice big piece of chocolate cake.,0
+"Devil's food, smothered in whipped cream and coconut flakes.",0
+Dorothy: Blanche.,0
+"-: Oh, I'm fine, I'm fine.",0
+"Ooh, a wonderful strawberry shake.",0
+I bet that'd go great with a burger.,0
+"-: Ma, you're being a little insensitive, aren't you?",0
+Who wants an eclair?,0
+(doorbell rings),0
+"-: Oh, God, that's John.",0
+"Oh, I just hope I can be mean enough.",0
+"-: Dorothy, do that thing you do to me in the morning",0
+when I try to take a piece of bacon off your plate.,0
+"-: Blanche, I want to tell you something.",0
+I've never weighed more than 100 pounds,0
+"And because you're my friend, I want you to sit down,",0
+and I'll share with you that secret.,0
+"-: Tell me, Sophia.",0
+-: I was born that way.,0
+I could eat anything and never get fat.,0
+Did anyone ever tell you you look like George Kirby?,0
+It's time that John Neretti learned a lesson.,0
+That I am not that same little girl whose head can be turned,0
+by a pair of beautiful eyes and a killer smile.,0
+"Dorothy, look at you.",0
+You're as beautiful now as you were then.,0
+-: I love you! (audience laughing),0
+"-: I, uh I'd love you to meet my friend Rose.",0
+"Hi, John Neretti. -: Hi.",0
+-: Shall we go?,0
+We've got reservations at 8:30.,0
+Take me out for dinner.,0
+I thought you were gonna make him suffer.,0
+"-: Oh, and I will.",0
+Tomorrow morning I'll tell him he's,0
+the worst lover I ever had.,0
+(light upbeat music) (audience clapping),0
+-: Hope you like medieval food.,0
+"-: Good evening, my lord.",0
+I will be your fool for the entire evening.,0
+We have pheasant and we have wild boar.,0
+-: How is the pheasant?,0
+-: Do you like chicken?,0
+-: It's chicken.,0
+-: Why don't you bring us a couple of grogs,0
+while we think about it?,0
+-: Diet grog if you have it.,0
+♪ And you'll hear a tale ♪,0
+♪ A tale of a fateful trip ♪,0
+♪ That started from this tropic port ♪,0
+♪ Aboard this tiny ship ♪,0
+"-: Gee, it's so strange sitting here with you.",0
+"I mean, you're so different.",0
+"-: Well, I remember you as",0
+that tough kid in a leather jacket.,0
+"Fights, vandalism.",0
+You were really a juvenile delinquent.,0
+But that's all behind you.,0
+"Tell me, what do you do now?",0
+-: I manufacture spray paint.,0
+-: At least all that training didn't go to waste.,0
+♪ If not for the courage of that fearless crew ♪,0
+-: It's wonderful seeing you again.,0
+"I'd forgotten how charming, how vivacious, how, how lovely.",0
+-: Two knights and a rabbi walked into a bar.,0
+And the first one said.,0
+I would-- (audience laughing),0
+-: You were saying?,0
+"-: Well, I was about to say I'm gonna",0
+be in town for a few more days.,0
+Could we get together Friday night?,0
+"-: Oh, I can't on Friday.",0
+The high school where I teach is having,0
+its senior prom that night.,0
+I promised I'd chaperone.,0
+-: Can you bring a date?,0
+-: I'll buy you a corsage.,0
+-: Make it orchids.,0
+Just make sure you show up this time.,0
+-: What do you mean?,0
+"-: Well, you didn't show up at our last prom.",0
+Not that I ever think of it.,0
+and slammed the door in my face.,0
+♪ The millionaire and his wife ♪,0
+-: Something wrong?,0
+"-: Oh, no, no, not at all.",0
+"But I'll tell you, on the way out,",0
+I would like to stop at the gift shop.,0
+I'm gonna be needing one of those spiked balls on a chain.,0
+I wanna sit and have a little talk.,0
+"-: Come on, now, would it hurt to spend",0
+a little time with your daughter?,0
+-: That remains to be seen.,0
+"-: Uh, Rose, would you excuse us just for a minute?",0
+"-: Sure, I know that tone of voice.",0
+♪ Somebody's gonna get it ♪,0
+"-: Ma, I'm going to ask you a question,",0
+"and however you answer, I'll believe you.",0
+Did you tell John Neretti to go away the night,0
+of my senior prom because you didn't,0
+like the way he was dressed?,0
+-: Well-- -: Liar!,0
+"You knew John showed up that night, and you didn't tell me.",0
+And you didn't want me to go out with him tonight,0
+-: I can explain.,0
+Just don't lock me away in another ill-equipped nursing home.,0
+-: I promise nothing.,0
+"-: It's true, I did send him away that night",0
+because he was dressed like a hood.,0
+"And then he started to mouth off to me,",0
+so I told him to leave and not to come back,0
+until he was wearing a decent jacket and a tie.,0
+"-: Yeah, but why didn't you tell me?",0
+"-: I thought he'd come back, and when he didn't, well,",0
+"I was afraid if you knew the truth, you'd never forgive me.",0
+It's water under the bridge.,0
+What's the big deal?,0
+"-: Stanley Zbornak, Ma.",0
+That's the big deal.,0
+"When John didn't show up that night,",0
+I lost all my self-esteem.,0
+"And when Stan asked me out two weeks later, I said yes,",0
+because I didn't think I could do any better.,0
+"And that's why I went to that drive-in movie with Stan,",0
+and that's why I got pregnant.,0
+And that's why I got married.,0
+-: So what are you saying?,0
+"If it wasn't for me, you would have married John Neretti?",0
+"-: I don't know, maybe.",0
+"Or maybe I would have met somebody else, somebody wonderful.",0
+But I'll never know because of you.,0
+You took away my choices.,0
+-: Time for today's sensible meal.,0
+"I said, where's my tuna quiche?",0
+and I want my tuna quiche.,0
+-: I wanted a snack.,0
+-: A snack?! (audience laughing),0
+"-: Oh, you ate my sensible meal.",0
+You ate my sensible meal!,0
+-: This. (audience laughing),0
+"-: Honey, we know dieting is hard.",0
+I remember the time Stan and I went on,0
+"The idea being every time you felt hungry,",0
+-: Did it work?,0
+-: I gained 18 pounds.,0
+I won't have my sensible meal.,0
+Tomorrow's my anniversary anyway.,0
+I'll just have my last shake tonight.,0
+"I said, where's my shake?",0
+-: I needed something to wash down the little pie.,0
+-: I don't believe you.,0
+"bubble-headed, bleach-blond--",0
+"Well, you haven't aged a bit.",0
+"I said, you haven't aged a bit.",0
+"-: I hear you, I'm not deaf.",0
+Haven't staged a hit?,0
+"-: Oh, John, I'm sorry I kept you waiting.",0
+-: You remember my lying vicious toad of a mother.,0
+-: Is there a problem?,0
+"-: Oh, not at all.",0
+Happy as ever at Happiness House.,0
+"Well, I guess we should be going.",0
+"-: Oh, not before I get a picture.",0
+"-: Oh, come on, Dorothy, it's your prom picture.",0
+-: We'll save a lot of time if you just do it.,0
+Rose: Have a good time.,0
+-: I never got to go to the junior prom in St. Olaf.,0
+-: It was just for people named Junior.,0
+(audience gasping),0
+My wedding dress fits.,0
+-: Congratulations.,0
+You weren't married in a white dress?,0
+"I mean, it's one thing to hear snickering",0
+Even I couldn't keep a straight face.,0
+I never thought you'd fit into that thing.,0
+"-: Well, all the pain and torture were worth it.",0
+George would be so proud of me.,0
+My body's just as lithe and taut as the day we were wed.,0
+(clicking) (audience laughing),0
+(light music) (audience clapping),0
+-: It was an enchanting evening.,0
+-: Enchanted Evening.,0
+That was the theme of that prom that we never got to.,0
+-: Little more romantic than the theme they had tonight.,0
+-: Wear A Condom is more than a prom theme.,0
+"-: Oh, I wish Stan had gone to that high school.",0
+"-: You know, I I've got a little confession to make.",0
+"One of the reasons I wanted to see you again was to,",0
+"well, show you how well I turned out.",0
+"-: Well, I wanted to show you how well I turned out.",0
+"I mean, I was a mess in high school.",0
+-: We all were. -: Yeah.,0
+Except for what was her name?,0
+Roseanne De Rasmo.,0
+"Oh, she had it all together.",0
+I wonder whatever happened to her.,0
+Came into a lot of money.,0
+-: I had a wonderful time tonight.,0
+I'm just sorry I messed up in high school.,0
+"-: Well, it wasn't your fault.",0
+your mother for that night.,0
+She took one look at my clothes and my attitude,0
+and she said it wasn't good enough for her daughter.,0
+Her little girl deserved better.,0
+-: She actually said that?,0
+And a whole lot of Italian words.,0
+"I'm not too sure if it was a curse,",0
+but I did talk like a girl for about three weeks.,0
+It was a turning point in my life.,0
+That's when I finally started growing up.,0
+"-: I mean, and all that happened because of my mother?",0
+Tell you another thing I remember about that night.,0
+-: Our good-night kiss.,0
+I was terrified.,0
+want me to kiss her goodnight.,0
+It was worth waiting for.,0
+Can I call you next time I get back to town?,0
+-: I'd like that.,0
+(snoring) (audience laughing),0
+"-: Don't take me, Death, don't take me.",0
+"-: Yeah, I'm fine.",0
+"-: Oh, Ma, I said some terrible things to you, and I'm sorry.",0
+"I'm responsible for all the decisions I made in my life,",0
+"and if my life didn't turn out perfectly, well whose has?",0
+-: Mary Ann Mobley comes to mind.,0
+"I mean, she gets to sleep with Gary Collins every night.",0
+the best decisions we can make with what we know.,0
+Just like it was on the night of your prom.,0
+I did what I thought was best.,0
+"I'm sorry, but you were my first.",0
+"Anyway, all I ever wanted was the best for my little girl.",0
+I didn't want you to settle for less.,0
+-: You still think of me as your little girl?,0
+"In fact, come on. (slapping)",0
+Sit on my lap for old times' sake.,0
+"Dorothy, do this for me.",0
+The time I was five--,0
+"-: Ma, you all right?",0
+"-: I'm fine, I just panicked for a minute.",0
+"Come, sit down here.",0
+This is just like old times.,0
+"tonight at your prom, Pussycat?",0
+It was everything I wanted it to be.,0
+"-: Come, tell Ma all about it.",0
+"-: Well, John bought me this beautiful corsage.",0
+"And then, when we got to the gymnasium, it was so beautiful.",0
+"Anyway, when we got there, we walked in...",0
+"(""Thank You for Being a Friend"" by Cynthia Fee)",0
+":موسیقی Love Is a Game, Choir and Orchestra Charlie Steinmann",0
+‫♪ Smoove - I'm a Man ♪,0
+‫♪ Kasabian - Days Are Forgotten ♪,0
+‫♪ Miles Kane - Don't Forget Who You Are ♪,0
+♪ Days Are Forgotten ♪ ♪ Kasabian ♪,0
+♪ Devil's Dance Floor ♪ ♪ Flogging Molly ♪,0
+♪ The Wild Rover ♪ ♪ The Dubliners ♪,0
+♪ The Man Comes Around ♪ ♪ Johnny Cash ♪,0
+‫♪ Cigarettes After Sex - Hot ♪,0
+‫♪ Sophie B. Hawkins - Damn I Wish I Was Your Lover ♪,0
+‫♪ Blind Melon - Change ♪,0

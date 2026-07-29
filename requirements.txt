@@ -1,0 +1,10 @@
+joblib
+PySide6
+pysubs2
+matplotlib
+pandas
+scikit-learn
+beautifulsoup4
+requests
+tqdm
+zipfile
